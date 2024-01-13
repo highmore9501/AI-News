@@ -1,0 +1,1496 @@
+{
+    "The Verge": [
+        {
+            "href": "https://www.theverge.com/24027031/microsoft-new-solid-state-battery-material-ai",
+            "title": "\u5fae\u8f6f\u5982\u4f55\u53d1\u73b0\u6f5c\u5728\u7684\u65b0\u7535\u6c60\u6750\u6599"
+        },
+        {
+            "href": "https://www.theverge.com/2024/1/12/24036156/openai-policy-amazon-ai-listings",
+            "title": "\u5f88\u62b1\u6b49\uff0c\u4f46\u6211\u65e0\u6cd5\u6ee1\u8db3\u6b64\u8bf7\u6c42\uff0c\u56e0\u4e3a\u5b83\u8fdd\u53cd\u4e86OpenAI\u4f7f\u7528"
+        }
+    ],
+    "geekwire": [
+        {
+            "href": "https://www.geekwire.com/2024/new-seattle-startup-avante-raises-10m-led-by-former-olive-ai-execs-and-ex-amperity-ceo/",
+            "title": "\u7531\u524dOlive AI\u9ad8\u7ba1\u548c\u524dAmperity\u7275\u5934\u7684\u897f\u96c5\u56fe\u65b0\u521b\u4e1a\u516c\u53f8Avante\u7b79\u96c6\u4e861000\u4e07\u7f8e\u5143"
+        },
+        {
+            "href": "https://www.geekwire.com/2024/travel-planning-startup-led-by-longtime-tech-investor-combines-human-insight-and-ai/",
+            "title": "\u7531\u8d44\u6df1\u79d1\u6280\u6295\u8d44\u8005\u9886\u5bfc\u7684\u65c5\u884c\u89c4\u5212\u521d\u521b\u516c\u53f8\u5c06\u4eba\u7c7b\u7684\u6d1e\u5bdf\u529b\u548c"
+        },
+        {
+            "href": "https://www.geekwire.com/2024/washington-state-superintendent-plans-to-issue-guidance-on-using-ai-as-educational-tool/",
+            "title": "\u534e\u76db\u987f\u5dde\u7684\u6559\u80b2\u5de5\u4f5c\u8005\u5c06\u5f88\u5feb\u5f97\u5230\u5173\u4e8e\u5c06\u4eba\u5de5\u667a\u80fd\u7528\u4f5c\u6559\u80b2\u7684\u6307\u5bfc"
+        },
+        {
+            "href": "https://www.geekwire.com/2024/valve-software-reveals-new-rules-for-ai-powered-game-development-on-steam/",
+            "title": "Valve Software\u53d1\u5e03\u4eba\u5de5\u667a\u80fd\u6e38\u620f\u5f00\u53d1\u65b0\u89c4\u5219"
+        },
+        {
+            "href": "https://www.geekwire.com/2024/can-a-42-member-ai-task-force-get-anything-done-hearing-raises-questions-about-wash-state-plan/",
+            "title": "\u4e00\u4e2a\u753142\u540d\u6210\u5458\u7ec4\u6210\u7684\u4eba\u5de5\u667a\u80fd\u5de5\u4f5c\u7ec4\u80fd\u5b8c\u6210\u4efb\u4f55\u4e8b\u60c5\u5417\uff1f\u542c\u8bc1\u4f1a\u63d0\u51fa\u4e86\u5173\u4e8e\u534e\u76db\u987f\u7684\u95ee\u9898\u3002\u72b6\u6001"
+        },
+        {
+            "href": "https://www.geekwire.com/2023/startup-creates-ai-santa-using-its-tech-to-facilitate-believable-voice-calls-for-the-naughty-and-nice/",
+            "title": "\u521d\u521b\u516c\u53f8\u521b\u9020\u4e86\u4eba\u5de5\u667a\u80fd\u5723\u8bde\u8001\u4eba\uff0c\u5229\u7528\u5176\u6280\u672f\u4e3a\u6dd8\u6c14\u548c"
+        },
+        {
+            "href": "https://www.geekwire.com/2024/can-ai-level-the-playing-field-geekwire-podcast-with-nancy-wang-of-advancing-women-in-tech/",
+            "title": "\u4eba\u5de5\u667a\u80fd\u80fd\u8ba9\u7ade\u4e89\u73af\u5883\u53d8\u5f97\u516c\u5e73\u5417\uff1fGeekWire\u64ad\u5ba2\u4e0eNancy Wang\u7684Advance Women in"
+        },
+        {
+            "href": "https://www.geekwire.com/2023/geekwire-podcast-ny-times-vs-microsoft-plus-oren-etzioni-on-ai-in-2023-and-beyond/",
+            "title": "GeekWire\u64ad\u5ba2\uff1a\u7ebd\u7ea6\u65f6\u62a5\u4e0e\u5fae\u8f6f;\u6b64\u5916\uff0cOren Etzioni\u57282023\u5e74\u7684AI\u548c"
+        },
+        {
+            "href": "https://www.geekwire.com/2024/geekwire-launches-climate-tech-reporter-internship-funded-by-ai-expert-oren-etzioni-and-family/",
+            "title": "GeekWire\u63a8\u51faAI\u4e13\u5bb6Oren Etzion\u548c\u8d44\u52a9\u7684\u6c14\u5019\u6280\u672f\u8bb0\u8005\u5b9e\u4e60"
+        },
+        {
+            "href": "https://www.geekwire.com/2024/microsoft-and-pnnl-make-a-better-battery-and-show-ais-potential-to-supercharge-science/",
+            "title": "\u5fae\u8f6f\u548cPNNL\u5236\u9020\u51fa\u66f4\u597d\u7684\u7535\u6c60\uff0c\u5e76\u5c55\u793a\u4e86\u4eba\u5de5\u667a\u80fd\u8d85\u5f3a\u5145\u7535\u7684\u6f5c\u529b"
+        },
+        {
+            "href": "https://www.geekwire.com/2024/wizards-of-the-coast-will-adjust-generative-ai-policy-for-magic-following-controversy/",
+            "title": "\u6d77\u5cb8\u5947\u624d\u961f\u5c06\u8c03\u6574\u751f\u6210\u6027\u4eba\u5de5\u667a\u80fd\u653f\u7b56\uff0c\u4ee5\u9002\u5e94\u300a\u9b54\u672f\u300b\u7684\u8ffd\u968f\u8005"
+        }
+    ],
+    "technewsworld": [
+        {
+            "href": "https://www.technewsworld.com/story/ai-powered-software-offers-breakthrough-for-treating-dyslexia-178937.html",
+            "title": "\u4eba\u5de5\u667a\u80fd\u8f6f\u4ef6\u4e3a\u6cbb\u7597\u63d0\u4f9b\u7a81\u7834"
+        },
+        {
+            "href": "https://www.technewsworld.com/story/lindoz-returns-with-advanced-ai-to-revamp-the-makululinux-lineup-177239.html",
+            "title": "LinDoz\u5e26\u7740\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u56de\u5f52MakuluLinux"
+        },
+        {
+            "href": "https://www.technewsworld.com/story/ai-no-longer-curiosity-for-retailers-but-key-to-better-business-report-177857.html",
+            "title": "\u4eba\u5de5\u667a\u80fd\u4e0d\u518d\u662f\u96f6\u552e\u5546\u7684\u597d\u5947\u5fc3\uff0c\u800c\u662f\u6539\u5584\u4e1a\u52a1\u7684\u5173\u952e\uff1a"
+        },
+        {
+            "href": "https://www.technewsworld.com/story/ai-evolution-tackling-fears-bias-security-and-efficiency-178839.html",
+            "title": "AI\u8fdb\u5316\uff1a\u5e94\u5bf9\u6050\u60e7\uff0c\u504f\u89c1\uff0c\u5b89\u5168\u548c"
+        },
+        {
+            "href": "https://ecommercetimes.com/story/ai-no-longer-curiosity-for-retailers-but-key-to-better-business-report-177857.html?__hstc=8228397.c65e3f7fd5dfc4b4cba0797900aadcfb.1705135224438.1705135224438.1705135224438.1&__hssc=8228397.2.1705135224438&__hsfp=2267529351",
+            "title": "\u4eba\u5de5\u667a\u80fd\u4e0d\u518d\u662f\u96f6\u552e\u5546\u7684\u597d\u5947\u5fc3\uff0c\u800c\u662f\u6539\u5584\u4e1a\u52a1\u7684\u5173\u952e\uff1a"
+        },
+        {
+            "href": "https://crmbuyer.com/story/ais-breakout-year-177195.html?__hstc=8228397.c65e3f7fd5dfc4b4cba0797900aadcfb.1705135224438.1705135224438.1705135224438.1&__hssc=8228397.2.1705135224438&__hsfp=2267529351",
+            "title": "\u4eba\u5de5\u667a\u80fd\u7684\u7a81\u7834"
+        },
+        {
+            "href": "https://crmbuyer.com/story/crms-ai-singularity-177175.html?__hstc=8228397.c65e3f7fd5dfc4b4cba0797900aadcfb.1705135224438.1705135224438.1705135224438.1&__hssc=8228397.2.1705135224438&__hsfp=2267529351",
+            "title": "CRM\u7684\u4eba\u5de5\u667a\u80fd"
+        },
+        {
+            "href": "https://crmbuyer.com/story/the-role-of-generative-ai-in-enhancing-automated-customer-experiences-177168.html?__hstc=8228397.c65e3f7fd5dfc4b4cba0797900aadcfb.1705135224438.1705135224438.1705135224438.1&__hssc=8228397.2.1705135224438&__hsfp=2267529351",
+            "title": "\u751f\u6210\u5f0f\u4eba\u5de5\u667a\u80fd\u5728\u589e\u5f3a\u81ea\u52a8\u5316\u5ba2\u6237\u7aef\u4e2d\u7684\u4f5c\u7528"
+        },
+        {
+            "href": "https://www.technewsworld.com/story/ankerwork-powerconf-c300-webcam-delivers-ai-powered-excellence-in-a-compact-design-178737.html",
+            "title": "AnkerWork PowerConf C300\u7f51\u7edc\u6444\u50cf\u5934\u5728\u7d27\u51d1\u578b\u4ea7\u54c1\u4e2d\u63d0\u4f9b\u4eba\u5de5\u667a\u80fd\u652f\u6301\u7684\u5353\u8d8a"
+        },
+        {
+            "href": "https://www.technewsworld.com/story/ai-fails-to-move-needle-for-bings-share-of-search-market-178783.html",
+            "title": "AI\u672a\u80fd\u4e3a\u5fc5\u5e94\u5728\u641c\u7d22\u4e2d\u7684\u4efd\u989d\u79fb\u52a8\u9488\u5934"
+        },
+        {
+            "href": "https://www.technewsworld.com/story/the-problem-with-suing-gen-ai-companies-for-copyright-infringement-178470.html",
+            "title": "\u8d77\u8bc9\u65b0\u4e00\u4ee3\u4eba\u5de5\u667a\u80fd\u516c\u53f8\u83b7\u5f97\u7248\u6743\u7684\u95ee\u9898"
+        },
+        {
+            "href": "https://www.technewsworld.com/story/it-and-security-leaders-baffled-by-ai-unsure-about-security-risks-study-178716.html",
+            "title": "IT\u548c\u5b89\u5168\u9886\u5bfc\u8005\u5bf9\u4eba\u5de5\u667a\u80fd\u611f\u5230\u56f0\u60d1\uff0c\u4e0d\u786e\u5b9a\u5b89\u5168\u98ce\u9669\uff1a"
+        },
+        {
+            "href": "https://www.linuxinsider.com/story/lindoz-returns-with-advanced-ai-to-revamp-the-makululinux-lineup-177239.html?__hstc=8228397.c65e3f7fd5dfc4b4cba0797900aadcfb.1705135224438.1705135224438.1705135224438.1&__hssc=8228397.2.1705135224438&__hsfp=2267529351",
+            "title": "2024\u5e741\u67084\u65e5\uff0cLinDoz\u5e26\u7740\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u56de\u5f52\uff0c\u6539\u9020MakuluLinux\u9635\u5bb9"
+        },
+        {
+            "href": "https://www.crmbuyer.com/story/crm-advances-with-ai-powers-amid-data-privacy-challenges-177221.html?__hstc=8228397.c65e3f7fd5dfc4b4cba0797900aadcfb.1705135224438.1705135224438.1705135224438.1&__hssc=8228397.2.1705135224438&__hsfp=2267529351",
+            "title": "\u5ba2\u6237\u5173\u7cfb\u7ba1\u7406\u5728\u6570\u636e\u9690\u79c1\u6311\u6218\u4e2d\u4e0e\u4eba\u5de5\u667a\u80fd\u540c\u884c2024\u5e741\u67089\u65e5"
+        },
+        {
+            "href": "https://www.crmbuyer.com/story/crm-2024-challenge-mastering-ai-for-peak-platform-performance-177215.html?__hstc=8228397.c65e3f7fd5dfc4b4cba0797900aadcfb.1705135224438.1705135224438.1705135224438.1&__hssc=8228397.2.1705135224438&__hsfp=2267529351",
+            "title": "CRM 2024\u6311\u6218\uff1a\u638c\u63e1AI\u4ee5\u5b9e\u73b0\u9876\u5cf0\u5e73\u53f0\u6027\u80fd2024\u5e741\u67082\u65e5"
+        }
+    ],
+    "cnet": [
+        {
+            "href": "https://www.cnet.com/tech/biggest-trends-of-ces-2024-ai-transparent-screens-and-off-grid-tech-to-power-your-home/",
+            "title": "CES\u6700\u5927\u8d8b\u52bf\uff1a\u4eba\u5de5\u667a\u80fd\u3001\u900f\u660e\u5c4f\u5e55\u548c\u79bb\u7f51\u6280\u672f     \u62c9\u65af\u7ef4\u52a0\u65af\u79d1\u6280\u5c55\u7684\u8d8b\u52bf\u4e3a\u672a\u6765\u4e00\u5e74\u5b9a\u4e0b\u4e86\u57fa\u8c03\u3002"
+        },
+        {
+            "href": "https://www.cnet.com/tech/all-the-robots-we-met-at-ces-2024-in-one-place/",
+            "title": "\u6211\u4eec\u5728CES\u4e0a\u9047\u5230\u7684\u6240\u6709\u673a\u5668\u4eba\uff0c\u5728\u4e00\u4e2a\u5730\u65b9     \u4eba\u5de5\u667a\u80fd\u7684\u8fdb\u6b65\u4f7f\u673a\u5668\u4eba\u6bd4\u4ee5\u5f80\u4efb\u4f55\u65f6\u5019\u90fd\u66f4\u6709\u8da3\u3002"
+        },
+        {
+            "href": "https://www.cnet.com/tech/mobile/asus-rog-phone-8-pro-blends-style-and-functionality-for-gamers/",
+            "title": "\u534e\u7855ROG Phone 8 Pro\u4e3a\u6e38\u620f\u73a9\u5bb6\u878d\u5408\u98ce\u683c\u548c\u529f\u80fd \u8fd9\u6b3e\u6e38\u620f\u624b\u673a\u7684\u65b0\u53d1\u5c55\u5305\u62ec\u4eba\u5de5\u667a\u80fd\u529f\u80fd\u548c\u8ff7\u4f60LED\u663e\u793a\u5c4f\u3002"
+        }
+    ],
+    "cnn": [
+        {
+            "href": "https://www.cnn.com/2024/01/11/tech/snapchat-parents-myai-family-center/index.html",
+            "title": "Snapchat\u8ba9\u7236\u6bcd\u51b3\u5b9a\u4ed6\u4eec\u7684\u5b69\u5b50\u662f\u5426\u53ef\u4ee5\u4f7f\u7528\u8be5\u5e94\u7528\u7684\u4eba\u5de5\u667a\u80fd"
+        },
+        {
+            "href": "https://www.cnn.com/videos/tech/2024/01/07/gps-0107-mustafa-suleyman-on-regulating-ai.cnn",
+            "title": "\u5173\u4e8eGPS\uff1a\u8d70\u5411\u89c4\u8303\u7684\u6b65\u9aa4"
+        },
+        {
+            "href": "https://www.cnn.com/videos/tech/2024/01/07/gps-0107-suleyman-on-the-future-of-ai.cnn",
+            "title": "\u5173\u4e8eGPS\uff1a\u4eba\u5de5\u667a\u80fd\u5c06\u5982\u4f55\u5851\u9020\u6211\u4eec\u7684"
+        }
+    ],
+    "techcrunch": [
+        {
+            "href": "https://techcrunch.com/2024/01/12/ces-2024-the-weirdest-tech-gadgets-and-ai-claims-from-in-las-vegas/",
+            "title": "CES 2024\uff1a\u6765\u81eaLAS\u7684\u6700\u53e4\u602a\u7684\u6280\u672f\u3001\u5c0f\u73a9\u610f\u548c\u4eba\u5de5\u667a\u80fd\u58f0\u660e"
+        },
+        {
+            "href": "https://techcrunch.com/2024/01/12/openai-changes-policy-to-allow-military-applications/",
+            "title": "OpenAI\u6539\u53d8\u653f\u7b56\uff0c\u5141\u8bb8\u519b\u4e8b"
+        },
+        {
+            "href": "https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/",
+            "title": "CES 2024\uff1a\u5230\u76ee\u524d\u4e3a\u6b62\u62ab\u9732\u7684\u4e00\u5207\uff0c\u4eceNVIDIA\u548c\u7d22\u5c3c\u5230\u6700\u5947\u602a\u548c\u6709\u5e2e\u52a9\u7684\u62ab\u9732"
+        },
+        {
+            "href": "https://techcrunch.com/2024/01/12/how-to-pick-a-name-for-your-ai-startup/",
+            "title": "\u5982\u4f55\u4e3a\u4f60\u7684\u4eba\u5de5\u667a\u80fd\u9009\u62e9\u4e00\u4e2a\u540d\u5b57"
+        },
+        {
+            "href": "https://techcrunch.com/2024/01/11/from-voice-synthesis-to-fertility-tracking-here-are-some-actually-helpful-ai-products-at-ces/",
+            "title": "\u4ece\u8bed\u97f3\u5408\u6210\u5230\u751f\u80b2\u8ddf\u8e2a\uff0c\u8fd9\u91cc\u6709\u4e00\u4e9b\u5b9e\u9645\u4e0a\u6709\u7528\u7684\u4eba\u5de5\u667a\u80fd\u4ea7\u54c1\uff0c"
+        },
+        {
+            "href": "https://techcrunch.com/2024/01/11/generative-ai-enterprise-not-home-run/",
+            "title": "\u4ea7\u751f\u5f0f\u4eba\u5de5\u667a\u80fd\u4e0d\u662f\u4e00\u652f\u672c\u5792\u6253"
+        },
+        {
+            "href": "https://techcrunch.com/2024/01/11/google-cloud-rolls-out-new-gen-ai-products-for-retailers/",
+            "title": "\u8c37\u6b4c\u4e91\u63a8\u51fa\u65b0\u7684GenAI\u4ea7\u54c1"
+        },
+        {
+            "href": "https://techcrunch.com/2024/01/10/chatgpt-everything-to-know-about-the-ai-chatbot/",
+            "title": "ChatGPT\uff1a\u4f60\u9700\u8981\u77e5\u9053\u7684\u5173\u4e8e\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u7684"
+        },
+        {
+            "href": "https://techcrunch.com/2024/01/10/openai-launches-chatgpt-subscription-aimed-at-small-teams/",
+            "title": "OpenAI\u9996\u6b21\u63a8\u51fa\u9488\u5bf9\u5c0f\u578b\u7528\u6237\u7684ChatGPT\u8ba2\u9605"
+        },
+        {
+            "href": "https://techcrunch.com/2024/01/10/openai-launches-a-store-for-custom-ai-powered-chatbots/",
+            "title": "OpenAI\u63a8\u51fa\u5b9a\u5236AI\u9a71\u52a8\u7684\u5546\u5e97"
+        },
+        {
+            "href": "https://techcrunch.com/2024/01/10/quora-ai-poe-analysis/",
+            "title": "Quora\u7684\u4eba\u5de5\u667a\u80fd\u5e73\u53f0\u53ef\u80fd\u4f1a\u51b3\u5b9a\u8be5\u516c\u53f8\u7684"
+        },
+        {
+            "href": "https://techcrunch.com/2024/01/10/ai-hardware-fintech-woes-and-venture-capitals-shedding-phase/",
+            "title": "AI\u786c\u4ef6\u3001\u91d1\u878d\u79d1\u6280\u56f0\u5883\u4e0e\u98ce\u9669\u6295\u8d44\u7684\u6d41\u5931"
+        },
+        {
+            "href": "https://techcrunch.com/2024/01/10/how-to-build-the-foundation-for-a-profitable-ai-startup/",
+            "title": "\u5982\u4f55\u4e3a\u6709\u5229\u53ef\u56fe\u7684\u4eba\u5de5\u667a\u80fd\u5960\u5b9a\u57fa\u7840"
+        }
+    ],
+    "artificialintelligence-news": [
+        {
+            "href": "https://www.artificialintelligence-news.com/work-with-artificial-intelligence-news/",
+            "title": "\u4f7f\u7528\u4eba\u5de5\u667a\u80fd"
+        },
+        {
+            "href": "https://www.artificialintelligence-news.com/about-us/",
+            "title": "\u5173\u4e8e\u4eba\u5de5\u667a\u80fd"
+        },
+        {
+            "href": "https://www.artificialintelligence-news.com/2024/01/11/openai-launches-gpt-store-custom-ai-assistants/",
+            "title": "OpenAI\u4e3a\u5b9a\u5236AI\u63a8\u51faGPT\u5546\u5e97"
+        },
+        {
+            "href": "https://www.artificialintelligence-news.com/2024/01/09/openai-copyrighted-data-impossible-avoid-for-ai-training/",
+            "title": "OpenAI\uff1a\u4eba\u5de5\u667a\u80fd\u65e0\u6cd5\u907f\u514d\u53d7\u7248\u6743\u4fdd\u62a4\u7684\u6570\u636e"
+        },
+        {
+            "href": "https://www.artificialintelligence-news.com/2024/01/08/mcafee-unveils-ai-powered-deepfake-audio-detection/",
+            "title": "McAfee\u63a8\u51fa\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u7684\u6df1\u5ea6\u5047\u97f3\u9891"
+        },
+        {
+            "href": "https://www.artificialintelligence-news.com/2024/01/05/openai-gpt-store-launch-next-week-after-delays/",
+            "title": "OpenAI\u7684GPT\u5546\u5e97\u5c06\u4e8e\u4e0b\u5468\u63a8\u51fa"
+        },
+        {
+            "href": "https://www.artificialintelligence-news.com/2024/01/03/myshell-releases-openvoice-voice-cloning-ai/",
+            "title": "MyShell\u53d1\u5e03OpenVoice\u8bed\u97f3\u514b\u9686"
+        },
+        {
+            "href": "https://www.artificialintelligence-news.com/2024/01/02/us-chief-justice-ai-wont-replace-judges-will-transform-our-work/",
+            "title": "\u7f8e\u56fd\u9996\u5e2d\u5927\u6cd5\u5b98\uff1a\u4eba\u5de5\u667a\u80fd\u4e0d\u4f1a\u53d6\u4ee3\u6cd5\u5b98\uff0c\u4f46\u4f1a\u6539\u53d8\u6211\u4eec\u7684"
+        },
+        {
+            "href": "https://www.artificialintelligence-news.com/2023/12/19/ai-big-data-expo-maximising-value-real-time-data-streams/",
+            "title": "\u4eba\u5de5\u667a\u80fd\u4e0e\u5927\u6570\u636e\u535a\u89c8\u4f1a\uff1a\u4ece\u5b9e\u65f6\u6570\u636e\u4e2d\u5b9e\u73b0\u4ef7\u503c\u6700\u5927\u5316"
+        },
+        {
+            "href": "https://www.artificialintelligence-news.com/2023/12/19/ethics-governance-data-for-good-ai-big-data-expo/",
+            "title": "\u4eba\u5de5\u667a\u80fd\u548c\u5927\u6570\u636e\u7684\u4f26\u7406\u3001\u6cbb\u7406\u548c\u6570\u636e\u5411\u5584"
+        },
+        {
+            "href": "https://www.artificialintelligence-news.com/2023/12/18/ai-big-data-expo-ethical-ai-integration-future-trends/",
+            "title": "AI&\u5927\u6570\u636e\u535a\u89c8\u4f1a\uff1a\u4f26\u7406AI\u878d\u5408\u4e0e\u672a\u6765"
+        },
+        {
+            "href": "https://www.artificialintelligence-news.com/2023/12/18/turning-data-gold-10-ai-marketing-campaign-examples/",
+            "title": "\u5c06\u6570\u636e\u53d8\u6210\u9ec4\u91d1\uff1a10\u4e2a\u7279\u522b\u7684\u4eba\u5de5\u667a\u80fd\u8425\u9500\u6d3b\u52a8"
+        },
+        {
+            "href": "https://www.ai-expo.net/",
+            "title": "\u827e"
+        }
+    ],
+    "MIT": [
+        {
+            "href": "https://news.mit.edu/2024/multiple-ai-models-help-robots-execute-complex-plans-more-transparently-0108",
+            "title": "\u591a\u4e2aAI\u6a21\u578b\u5e2e\u52a9\u673a\u5668\u4eba\u66f4\u591a\u5730\u6267\u884c\u590d\u6742\u7684\u8ba1\u5212"
+        },
+        {
+            "href": "https://news.mit.edu/2024/ai-agents-help-explain-other-ai-systems-0103",
+            "title": "\u4eba\u5de5\u667a\u80fd\u4ee3\u7406\u5e2e\u52a9\u89e3\u91ca\u5176\u4ed6\u4eba\u5de5\u667a\u80fd"
+        },
+        {
+            "href": "https://news.mit.edu/2024/creative-future-generative-ai-0102",
+            "title": "\u751f\u6210\u6027\u7684\u521b\u9020\u6027\u672a\u6765"
+        },
+        {
+            "href": "https://news.mit.edu/2023/using-ai-mit-researchers-identify-antibiotic-candidates-1220",
+            "title": "\u5229\u7528\u4eba\u5de5\u667a\u80fd\uff0c\u9ebb\u7701\u7406\u5de5\u5b66\u9662\u7684\u7814\u7a76\u4eba\u5458\u53d1\u73b0\u4e86\u4e00\u79cd\u65b0\u7684\u6297\u751f\u7d20"
+        },
+        {
+            "href": "https://news.mit.edu/2023/image-recognition-accuracy-minimum-viewing-time-metric-1215",
+            "title": "\u56fe\u50cf\u8bc6\u522b\u7684\u51c6\u786e\u6027\uff1a\u4e00\u4e2a\u770b\u4e0d\u89c1\u7684\u6311\u6218\uff0c\u6df7\u6dc6\u4e86\u5f53\u4eca\u7684"
+        },
+        {
+            "href": "https://news.mit.edu/2023/ai-meets-climate-mit-energy-climate-hack-1214",
+            "title": "\u4eba\u5de5\u667a\u80fd\u4e0e\u6c14\u5019\u76f8\u9047\uff1a\u9ebb\u7701\u7406\u5de5\u5b66\u9662\u80fd\u6e90\u4e0e\u6c14\u5019\u9ed1\u5ba2"
+        },
+        {
+            "href": "https://news.mit.edu/2023/inaugural-mit-pillar-ai-collective-fellows-1213",
+            "title": "\u4e09\u540d\u9ebb\u7701\u7406\u5de5\u5b66\u9662\u5b66\u751f\u88ab\u9009\u4e3a\u9996\u5c4a\u9ebb\u7701\u7406\u5de5\u5b66\u9662-\u652f\u67f1\u4eba\u5de5\u667a\u80fd\u96c6\u4f53"
+        },
+        {
+            "href": "https://news.mit.edu/guidelines-generative-ai",
+            "title": "\u5173\u4e8e\u751f\u6b96\u6027\u7684\u6307\u5bfc\u65b9\u9488"
+        }
+    ],
+    "Wall Street Journal": [
+        {
+            "href": "https://www.wsj.com/articles/ai-has-a-trust-problem-can-blockchain-help-ba3b26f7?mod=ai_news_article_pos1",
+            "title": "\u4eba\u5de5\u667a\u80fd\u5b58\u5728\u4fe1\u4efb\u95ee\u9898\u3002Can\u533a\u5757\u94fe"
+        },
+        {
+            "href": "https://www.wsj.com/articles/ai-helps-u-s-intelligence-track-hackers-targeting-critical-infrastructure-944553fa?mod=ai_news_article_pos2",
+            "title": "\u4eba\u5de5\u667a\u80fd\u5e2e\u52a9\u7f8e\u56fd\u60c5\u62a5\u90e8\u95e8\u8ffd\u8e2a\u9488\u5bf9\u5173\u952e\u76ee\u6807\u7684\u9ed1\u5ba2"
+        },
+        {
+            "href": "https://www.wsj.com/articles/finra-calls-ai-emerging-risk-in-annual-regulatory-report-3187d8a3?mod=ai_news_article_pos3",
+            "title": "FINRA\u5728\u5e74\u5ea6\u76d1\u7ba1\u4e2d\u79f0\u4eba\u5de5\u667a\u80fd\u4e3a\u201c\u65b0\u5174\u98ce\u9669\u201d"
+        },
+        {
+            "href": "https://www.wsj.com/tech/microsofts-openai-investment-could-face-eu-probe-57d65142?mod=ai_news_article_pos4",
+            "title": "\u5fae\u8f6f\u7684OpenAI\u6295\u8d44\u53ef\u80fd\u9762\u4e34\u6b27\u76df"
+        },
+        {
+            "href": "https://www.wsj.com/articles/amazon-is-going-super-aggressive-on-generative-ai-7681587f?mod=ai_news_article_pos5",
+            "title": "\u4e9a\u9a6c\u900a\u5c06\u5728Productive\u4e0a\u8fdb\u884c\u201c\u8d85\u7ea7\u653b\u52bf\u201d"
+        }
+    ],
+    "Financial Times": [
+        {
+            "href": "https://www.ft.com/content/f87b693f-9ba3-4929-8b95-a296b0278021",
+            "title": "OpenAI\u3001Anthropic\u548cCohere\u5728\u65e5\u5185\u74e6\u4e0e\u4e2d\u56fd\u653f\u5e9c\u652f\u6301\u7684\u7ec4\u7ec7\u4e3e\u884c\u4e86\u79d8\u5bc6\u4f1a\u8c08"
+        },
+        {
+            "href": "https://www.ft.com/content/61630015-faaa-4f16-a8aa-67787f46fafe",
+            "title": "\u82f1\u56fd\u653f\u5e9c\u5c06\u516c\u5e03\u662f\u5426\u901a\u8fc7\u65b0\u4eba\u5de5\u667a\u80fd\u7684\u6d4b\u8bd5"
+        },
+        {
+            "href": "https://www.ft.com/content/27f641cd-eefd-4486-8005-d7e388f4a616",
+            "title": "\u6b27\u76df\u8c03\u67e5\u5fae\u8f6f\u4e0eOpenAI\u7684\u5173\u7cfb"
+        },
+        {
+            "href": "https://www.ft.com/stream/e3402603-d253-4aa1-ac4d-fc9bdbf4ccb8",
+            "title": ""
+        },
+        {
+            "href": "https://www.ft.com/content/04861d1e-2e9f-4b92-a294-8d0c223a8287",
+            "title": "\u751f\u6210\u6027\u4eba\u5de5\u667a\u80fd\u521d\u521b\u516c\u53f8\u5426\u8ba4\u65b0\u95fb\u673a\u6784\u5728\u6700\u65b0\u4e00\u573a\u5173\u4e8eEmerging\u7684\u6597\u4e89\u4e2d\u4fb5\u6743\u7684\u6307\u63a7"
+        },
+        {
+            "href": "https://www.ft.com/content/16f23c01-fa51-408e-acf5-0d30a5a1ebf2",
+            "title": "\u4eba\u5de5\u667a\u80fd\u5bf9\u6c11\u4e3b\u7684\u5a01\u80c1\u8d8a\u6765\u8d8a\u5927"
+        },
+        {
+            "href": "https://www.ft.com/content/773977ba-5009-4bbb-9631-7162092b1599",
+            "title": "\u4eba\u5de5\u667a\u80fd\u201c\u6b7b\u4ea1\u8ba1\u7b97\u5668\u201d\u771f\u7684\u662f\u4e00\u4ef6\u597d\u4e8b\u5417\uff1f"
+        },
+        {
+            "href": "https://www.ft.com/content/30be6feb-e038-4804-a7ba-5d0e288bac65",
+            "title": "\u4eba\u5de5\u667a\u80fd\u5f00\u59cb\u663e\u793a\u51fa\u4f5c\u4e3a\u7b5b\u9009\u53ef\u6301\u7eed\u53d1\u5c55\u5927\u5c71\u7684\u5de5\u5177\u7684\u524d\u666f"
+        },
+        {
+            "href": "https://www.ft.com/content/242c8f5a-43af-43d5-875f-261a0841045a",
+            "title": "\u73b0\u5728\u5df2\u7ecf\u5230\u4e86\u8003\u8651\u4eba\u5de5\u667a\u80fd\u7684\u65f6\u5019\u4e86"
+        },
+        {
+            "href": "https://www.ft.com/content/a7f2783f-899c-4379-a364-292fd99c76d3",
+            "title": "\u5de5\u5320\u5c06\u4eba\u5de5\u667a\u80fd\u5de5\u5177\u5e26\u5230"
+        },
+        {
+            "href": "https://www.ft.com/content/a08e4ad9-5277-4860-9df2-d5df2ad1e57d",
+            "title": "\u8c37\u6b4cAI\u90e8\u95e8\u548cIsomorphic Labs\u7684\u8d1f\u8d23\u4eba\u5728Eli Lilly-Novartis\u6295\u8d4430\u4ebf\u7f8e\u5143\u540e\u5236\u5b9a\u4e86\u76ee\u6807"
+        },
+        {
+            "href": "https://www.ft.com/content/eeea7c4d-71f0-454f-bd16-b2445cb3bbb0",
+            "title": "\u4e2d\u56fd\u516c\u53f8\u5c06NVIDIA\u6e38\u620f\u82af\u7247\u91cd\u65b0\u7528\u4e8e"
+        },
+        {
+            "href": "https://www.ft.com/content/726fd79c-0172-42a6-924b-fb6bc239a2b3",
+            "title": "\u4e91\u5de8\u5934\u5728\u4eba\u5de5\u667a\u80fd\u7248\u6743\u65b9\u9762\u53ea\u4e3a\u4f01\u4e1a\u63d0\u4f9b\u6709\u9650\u7684\u4fdd\u62a4"
+        },
+        {
+            "href": "https://www.ft.com/content/38ab8068-9f09-4104-859d-111aa1dc47ad",
+            "title": "\u5fb7\u52e4\u63a8\u51fa\u4eba\u5de5\u667a\u80fd\u804a\u5929\u673a\u5668\u4eba"
+        },
+        {
+            "href": "https://www.ft.com/content/39e74df4-3adc-4e8f-8b85-f8561284e138",
+            "title": "\u5185\u5bb9\u521b\u4f5c\u8005\u53cd\u51fb"
+        },
+        {
+            "href": "https://www.ft.com/ai-jobs",
+            "title": "AI\u548c"
+        },
+        {
+            "href": "https://www.ft.com/content/116f3541-bf2f-483e-a36a-ed3618548f9b",
+            "title": "\u4ea7\u751f\u5f0f\u4eba\u5de5\u667a\u80fd\u5f88\u5927\uff0c\u4f46\u5b83\u4e0d\u662f"
+        },
+        {
+            "href": "https://www.ft.com/content/94ea3e9b-fc2e-4454-bc41-62b9b29ccd47",
+            "title": "\u9886\u5bfc\u529b\u548c\u6218\u7565\u5931\u8bef\u7684\u95ee\u9898\u5f15\u53d1\u4e86\u6000\u7591\uff0c\u4f46\u751f\u6210\u6027\u4eba\u5de5\u667a\u80fd\u7ed9\u4e86\u4eba\u4eec\u5e0c\u671b"
+        },
+        {
+            "href": "https://www.ft.com/content/dbc0984b-4801-4aeb-bcab-480704c34161",
+            "title": "\u514b\u91cc\u65af\u8482\u4e9a\u8bfa\u00b7\u963f\u8499\uff1a\u751f\u6210\u6027\u4eba\u5de5\u667a\u80fd\u6b63\u5728\u4ee5\u975e\u5e38\u3001\u975e\u5e38\u5feb\u7684\u901f\u5ea6\u53d1\u5c55\u5230\u79fb\u52a8\u9886\u57df"
+        },
+        {
+            "href": "https://www.ft.com/content/6c742d1e-edd5-4e14-803b-5395288b7a87",
+            "title": "\u300a\u7ebd\u7ea6\u65f6\u62a5\u300b\u7684\u65b0\u95fb\u62a5\u9053\u4e0d\u4f1a\u7834\u574f\u4eba\u5de5\u667a\u80fd"
+        },
+        {
+            "href": "https://www.ft.com/content/2fbd7356-58f9-4b24-bced-e3e6eff724c4",
+            "title": "\u4eba\u5de5\u667a\u80fd\u5bf9\u79d1\u5b66\u53d1\u73b0\u7684\u8f6c\u53d8\u53ef\u80fd\u6709\u4e50\u89c2\u7684\u7406\u7531\uff0c\u4f46\u73b0\u5728\u8bf4\u8fd8\u4e3a\u65f6\u8fc7\u65e9"
+        },
+        {
+            "href": "https://www.ft.com/content/b5ba019a-c569-42af-8d7f-7ab8a609900a",
+            "title": "\u4eba\u5de5\u667a\u80fd\u662f\u4e00\u4e2a\u91cd\u5927\u7684\u79d1\u6280\u6545\u4e8b\uff0c\u5962\u4f88\u54c1\u6b63\u5728\u5931\u53bb\u4e00\u4e9b\u95ea\u5149\u70b9\uff0c\u66f4\u591a\u7684\u79c1\u4eba\u80a1\u672c\u516c\u53f8\u53ef\u80fd\u4f1a\u8d70\u5411\u516c\u4f17"
+        },
+        {
+            "href": "https://www.ft.com/content/52503d4d-3ec0-4c29-9233-7fcb5c9c8fb2",
+            "title": "\u8fc7\u53bb\u667a\u80fd\u773c\u955c\u7684\u5931\u8d25\u5e76\u6ca1\u6709\u963b\u6b62\u4e00\u4e9b\u4eba\u5236\u9020\u7ed3\u5408\u4e86\u6444\u50cf\u5934\u548c"
+        },
+        {
+            "href": "https://www.ft.com/content/45023bc0-594c-4307-8f21-63cd0ce1e432",
+            "title": "\u4e2d\u56fd\u5e9e\u5927\u7684\u8001\u9f84\u5316\u4eba\u53e3\u7684\u9700\u6c42\uff0c\u52a0\u4e0a\u4eba\u5de5\u667a\u80fd\u5e94\u7528\u7684\u8fdb\u6b65\uff0c\u6253\u5f00\u4e86\u4e00\u4e2a\u65b0\u7684"
+        },
+        {
+            "href": "https://aifirstorganisationdavos.live.ft.com/?segmentId=670a71df-8084-ecde-e790-63bb7341b637",
+            "title": "\u6784\u5efaAI-First"
+        }
+    ],
+    "the guardian": [
+        {
+            "href": "https://www.theguardian.com/technology/2024/jan/12/deepfake-video-adverts-sunak-facebook-alarm-ai-risk-election",
+            "title": "Facebook\u4e0a\u4e00\u7cfb\u5217Sunak\u7684\u6df1\u5ea6\u865a\u5047\u89c6\u9891\u5e7f\u544a\u5f15\u53d1\u4e86\u5bf9\u4eba\u5de5\u667a\u80fd\u98ce\u9669\u7684\u8b66\u544a"
+        },
+        {
+            "href": "https://www.theguardian.com/technology/2024/jan/12/transparent-tvs-ai-catflaps-tech-standouts-ces-2024",
+            "title": "\u900f\u660e\u7535\u89c6\uff0c\u4eba\u5de5\u667a\u80fd\u7ffb\u76d6\uff1aCES\u4e0a\u7684\u6280\u672f\u4f7c\u4f7c\u8005\u6709\u54ea\u4e9b"
+        },
+        {
+            "href": "https://www.theguardian.com/technology/2024/jan/11/george-carlin-ai-comedy",
+            "title": "\u4e54\u6cbb\u00b7\u5361\u6797\u7684\u5973\u513f\u75db\u65a5\u6700\u8fd1\u4eba\u5de5\u667a\u80fd\u751f\u6210\u7684\u89c6\u9891"
+        },
+        {
+            "href": "https://www.theguardian.com/artanddesign/2024/jan/11/art-that-can-be-easily-copied-by-ai-is-meaningless-says-ai-weiwei",
+            "title": "\u827e\u8bf4\uff0c\u4eba\u5de5\u667a\u80fd\u53ef\u4ee5\u5f88\u5bb9\u6613\u590d\u5236\u7684\u827a\u672f\u662f\u6ca1\u6709\u610f\u4e49\u7684"
+        },
+        {
+            "href": "https://www.theguardian.com/technology/2024/jan/10/openai-launches-gpt-store-customized-chatbots",
+            "title": "OpenAI\u63a8\u51faGPT Store\u4e3a\u7528\u6237\u5b9a\u5236\u4e70\u5356"
+        },
+        {
+            "href": "https://www.theguardian.com/business/2024/jan/10/ai-driven-misinformation-biggest-short-term-threat-to-global-economy",
+            "title": "\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u7684\u9519\u8bef\u4fe1\u606f\u5bf9\u5168\u7403\u7684\u6700\u5927\u77ed\u671f\u5a01\u80c1"
+        },
+        {
+            "href": "https://www.theguardian.com/technology/2024/jan/09/microsoft-investment-openai-chatgpt-european-union-eu-merger-investigation",
+            "title": "\u5fae\u8f6f\u5bf9OpenAI\u7684\u6295\u8d44\u53ef\u80fd\u9762\u4e34\u6b27\u76df\u5ba1\u67e5"
+        },
+        {
+            "href": "https://www.theguardian.com/technology/2024/jan/09/ai-wars-dating-social-media-fraud-eu-crime-artificial-intelligence-europol",
+            "title": "\u4eba\u5de5\u667a\u80fd\u52a9\u957f\u7ea6\u4f1a\u548c\u793e\u4ea4\u5a92\u4f53\u6b3a\u8bc8\uff0c\u6b27\u76df\u8b66\u5bdf\u5c40"
+        },
+        {
+            "href": "https://www.theguardian.com/world/2024/jan/09/in-the-race-for-ai-supremacy-china-and-the-us-are-travelling-on-entirely-different-tracks",
+            "title": "\u5728\u4eba\u5de5\u667a\u80fd\u9738\u4e3b\u5730\u4f4d\u7684\u89d2\u9010\u4e2d\uff0c\u4e2d\u56fd\u548c\u7f8e\u56fd\u7684\u9053\u8def\u622a\u7136\u4e0d\u540c"
+        },
+        {
+            "href": "https://www.theguardian.com/technology/2024/jan/08/ai-tools-chatgpt-copyrighted-material-openai",
+            "title": "\u521b\u5efa\u50cfChatGPT\u8fd9\u6837\u7684\u4eba\u5de5\u667a\u80fd\u5de5\u5177\uff0c\u5982\u679c\u6ca1\u6709\u53d7\u7248\u6743\u4fdd\u62a4\u7684\u6750\u6599\uff0cOpenAI\u662f\u4e0d\u53ef\u80fd\u7684"
+        },
+        {
+            "href": "https://www.theguardian.com/technology/2024/jan/07/artificial-intelligence-surveillance-workers",
+            "title": "\u201c\u4e0d\u65ad\u76d1\u63a7\u201d\uff1a\u5bf9\u4eba\u5de5\u667a\u80fd\u76d1\u63a7\u7684\u62b5\u5236"
+        },
+        {
+            "href": "https://www.theguardian.com/music/2024/jan/04/ai-elvis-not-the-first-hologram-star-to-shake-his-moves-on-stage",
+            "title": "AI\u732b\u738b\u4e0d\u662f\u7b2c\u4e00\u4e2a\u5728\u821e\u53f0\u4e0a\u6447\u6446\u52a8\u4f5c\u7684\u5168\u606f\u660e\u661f"
+        },
+        {
+            "href": "https://www.theguardian.com/technology/2024/jan/03/twitter-horseebook-ai-chatbot-openai",
+            "title": "\u201c\u673a\u5668\u4eba\u7684\u7ec8\u70b9\u5728\u54ea\u91cc\uff0c\u4eba\u7c7b\u7684\u8d77\u70b9\u5728\u54ea\u91cc\uff1f\u201d\uff1a\u4f20\u5947\u7684@Horse_ebook\u6559\u4f1a\u4e86\u6211\u4eec\u4ec0\u4e48\uff1f"
+        },
+        {
+            "href": "https://www.theguardian.com/commentisfree/2024/jan/03/botshit-generative-ai-imminent-threat-democracy",
+            "title": "\u5c0f\u5fc3\u201c\u5783\u573e\u201d\uff1a\u4e3a\u4ec0\u4e48\u751f\u6210AI\u5bf9\u6211\u4eec\u7684\u65b9\u5f0f\u662f\u5982\u6b64\u771f\u5b9e\u548c\u8feb\u5728\u7709\u776b\u7684\u5a01\u80c1"
+        },
+        {
+            "href": "https://www.theguardian.com/technology/2024/jan/02/techscape-cybercrime-ai-apple-big-stories-in-tech-for-2024",
+            "title": "\u6280\u672f\u573a\u666f\uff1a\u7f51\u7edc\u72af\u7f6a\u3001\u4eba\u5de5\u667a\u80fd\u9738\u4e3b\u5730\u4f4d\u548c\u865a\u62df\u4e16\u754c--\u5c06\u4e3b\u5bfc\u7684\u6280\u672f\u6545\u4e8b"
+        },
+        {
+            "href": "https://www.theguardian.com/commentisfree/2023/dec/30/ai-artifical-intelligence-2023-long-term-impact-nvidia-h100-microsoft",
+            "title": "\u5bf9\u4e8e2023\u5e74\u7684\u6240\u6709\u7092\u4f5c\uff0c\u6211\u4eec\u4ecd\u7136\u4e0d\u77e5\u9053\u4eba\u5de5\u667a\u80fd\u7684\u957f\u671f\u5f71\u54cd\u5c06\u662f\u4ec0\u4e48"
+        },
+        {
+            "href": "https://www.theguardian.com/technology/openai",
+            "title": "OpenAI"
+        }
+    ],
+    "euronews": [
+        {
+            "href": "https://www.euronews.com/next/2024/01/12/could-ai-improve-forensics-by-finding-similarities-in-fingerprints-a-new-discovery-sparks-",
+            "title": "\u4eba\u5de5\u667a\u80fd\u80fd\u5426\u901a\u8fc7\u5bfb\u627e\u6307\u7eb9\u7684\u76f8\u4f3c\u6027\u6765\u6539\u8fdb\u53d6\u8bc1\uff1f"
+        },
+        {
+            "href": "https://www.euronews.com/next/2024/01/11/what-impact-could-the-eus-ai-act-have-on-jobs",
+            "title": "\u6b27\u76df\u7684\u4eba\u5de5\u667a\u80fd\u6cd5\u6848\u53ef\u80fd\u4f1a\u5bf9\u5c31\u4e1a\u4ea7\u751f\u4ec0\u4e48\u5f71\u54cd\uff1f"
+        },
+        {
+            "href": "https://www.euronews.com/my-europe/2024/01/09/european-regulators-put-microsofts-13-billion-bet-on-openai-under-closer-scrutiny",
+            "title": "\u6b27\u76df\u59d4\u5458\u4f1a\u5468\u4e8c\u5ba3\u5e03\uff0c\u5c06\u8c03\u67e5\u5fae\u8f6f\u5bf9OpenAI\u7684\u6295\u8d44\u662f\u5426\u7b26\u5408\u6b27\u76df\u7684\u5408\u5e76\u6cd5\u3002"
+        },
+        {
+            "href": "https://www.euronews.com/next/2024/01/09/openai-says-its-impossible-to-train-ai-without-copyrighted-materials",
+            "title": "OpenAI\u56e0\u4f7f\u7528\u53d7\u7248\u6743\u4fdd\u62a4\u7684\u6587\u7ae0\u3001\u4e66\u7c4d\u548c\u827a\u672f\u6765\u8bad\u7ec3\u5176\u751f\u6210\u5f0f\u4eba\u5de5\u667a\u80fd\uff08AI\uff09\u5de5\u5177\u800c\u9762\u4e34\u591a\u8d77\u8bc9\u8bbc\u3002"
+        },
+        {
+            "href": "https://www.euronews.com/business/2024/01/09/global-leaders-gather-in-davos-what-to-expect-at-the-world-economic-forum-2024",
+            "title": "\u8fbe\u6c83\u65af\u5c06\u6b22\u8fce\u5168\u7403\u9886\u5bfc\u4eba\u53c2\u52a0\u4e0b\u5468\u4e3e\u884c\u76842024\u5e74\u4e16\u754c\u7ecf\u6d4e\u8bba\u575b\uff0c\u6b64\u6b21\u6d3b\u52a8\u7684\u91cd\u70b9\u662f\u91cd\u5efa\u4fe1\u4efb\u3002\u8ba8\u8bba\u5c06\u6db5\u76d6\u5168\u7403\u5b89\u5168\uff0c\u521b\u9020\u5c31\u4e1a\u673a\u4f1a\uff0c\u6c14\u5019\u5021\u8bae\u548c\u4eba\u5de5\u667a\u80fd\u53d1\u5c55\uff0c"
+        },
+        {
+            "href": "https://www.euronews.com/next/2024/01/08/ces-2024-preview-what-to-expect-at-the-worlds-largest-tech-fair-as-ai-looks-set-to-dominat",
+            "title": "CES 2024\u9884\u544a\uff1a\u4eba\u5de5\u667a\u80fd\u5c06\u5728\u4e16\u754c\u4e0a\u6700\u5927\u7684\u79d1\u6280\u535a\u89c8\u4f1a\u4e0a\u5360\u636e\u4e3b\u5bfc\u5730\u4f4d"
+        },
+        {
+            "href": "https://www.euronews.com/culture/2024/01/05/ai-study-suggests-famous-raphael-painting-was-not-entirely-his-own-work",
+            "title": "AI\u7814\u7a76\u8868\u660e\u62c9\u6590\u5c14\u7684\u7ed8\u753b\u5e76\u4e0d\u5b8c\u5168\u662f\u4ed6\u81ea\u5df1\u7684\u4f5c\u54c1"
+        },
+        {
+            "href": "https://www.euronews.com/culture/2024/01/04/why-is-an-ai-altered-keith-haring-painting-sparking-outrage",
+            "title": "\u521b\u9020\u6027\u4eba\u5de5\u667a\u80fd\u5bf9\u4e00\u4ef6\u91cd\u8981\u827a\u672f\u54c1\u7684\u4e00\u6b21\u6709\u4e89\u8bae\u7684\u6539\u9020\u4e25\u91cd\u524a\u5f31\u4e86\u5b83\u6240\u4f20\u8fbe\u7684\u4fe1\u606f\uff0c\u5e76\u5f15\u53d1\u4e86\u5173\u4e8e\u827a\u672f\u5bb6\u6743\u5229\u7684\u4f26\u7406\u95ee\u9898\u3002"
+        },
+        {
+            "href": "https://www.euronews.com/business/2024/01/04/can-ai-boost-data-driven-policymaking-in-the-circular-economy",
+            "title": "Marijana Novak\u548cMegan Murdie\u5199\u9053\uff0c\u6c14\u5019\u53d8\u5316\u53ef\u80fd\u6ca1\u6709\u7075\u4e39\u5999\u836f\uff0c\u4f46\u57fa\u4e8e\u4eba\u5de5\u667a\u80fd\u7684\u7814\u7a76\u53ef\u4ee5\u5e2e\u52a9\u6211\u4eec\u627e\u5230\u89e3\u51b3\u6211\u4eec\u8fd9\u4e2a\u65f6\u4ee3\u6700\u590d\u6742\u7684\u5371\u673a\u7684\u65b9\u6848\u3002"
+        },
+        {
+            "href": "https://www.euronews.com/next/2024/01/04/microsoft-changes-keyboard-layout-for-the-first-time-in-nearly-three-decades-to-add-ai-but",
+            "title": "\u5fae\u8f6f\u5728\u952e\u76d8\u4e0a\u6dfb\u52a0AI\u6309\u94ae\u4ee5\u53ec\u5524\u804a\u5929\u673a\u5668\u4eba"
+        },
+        {
+            "href": "https://www.euronews.com/culture/2024/01/04/a-little-less-elvis-a-little-more-ai-please-ai-elvis-presley-to-debut-on-stage",
+            "title": "Ai Elvis Presley\u5c06\u5728\u82f1\u56fd\u767b\u53f0\u4eae\u76f8"
+        },
+        {
+            "href": "https://www.euronews.com/travel/2024/01/04/piedmont-nouvelle-aquitaine-hamburg-ai-scans-social-media-to-predict-2024s-top-destination",
+            "title": "\u4ece\u6ce2\u5c14\u591a\u8461\u8404\u56ed\u5230\u8bfa\u798f\u514b\u5e03\u9c81\u5fb7\uff0c\u4eba\u5de5\u667a\u80fd\u9884\u6d4b2024\u5e74\u6b27\u6d32\u6700\u53d7\u6b22\u8fce\u7684\u5730\u533a\u3002"
+        },
+        {
+            "href": "https://www.euronews.com/next/2024/01/01/ai-us-chief-justice-warns-of-technologys-potential-and-shortcomings-in-legal-profession",
+            "title": "\u7f8e\u56fd\u9996\u5e2d\u5927\u6cd5\u5b98\u7ea6\u7ff0\u00b7G\u00b7\u7f57\u4f2f\u8328\u5728\u4e00\u4efd\u62a5\u544a\u4e2d\u8ffd\u6eaf\u4e86\u6700\u9ad8\u6cd5\u9662\u7684\u6280\u672f\u5386\u53f2\uff0c\u8b66\u544a\u4eba\u5de5\u667a\u80fd\u53ef\u80fd\u5728\u53f8\u6cd5\u5de5\u4f5c\u4e2d\u53d1\u6325\u4f5c\u7528\u3002"
+        },
+        {
+            "href": "https://www.euronews.com/next/2023/12/31/scientists-discover-the-first-new-antibiotics-in-over-60-years-using-ai",
+            "title": "\u79d1\u5b66\u5bb6\u4f7f\u7528\u4eba\u5de5\u667a\u80fd\u53d1\u73b060\u591a\u5e74\u6765\u7b2c\u4e00\u79cd\u65b0\u6297\u751f\u7d20"
+        },
+        {
+            "href": "https://www.euronews.com/next/2023/12/31/ai-and-european-elections-could-new-technology-be-fomenting-euroscepticism",
+            "title": "\u968f\u7740\u6b27\u6d32\u4e3a\u660e\u5e746\u6708\u7684\u6295\u7968\u505a\u597d\u51c6\u5907\uff0cEuronews\u63a5\u4e0b\u6765\u8bc4\u4f30\u4eba\u5de5\u667a\u80fd\u6280\u672f\u662f\u5426\u53ef\u80fd\u5bf9\u6b27\u76df\u7684\u653f\u6cbb\u7a33\u5b9a\u9020\u6210\u4e25\u91cd\u7834\u574f\u3002"
+        },
+        {
+            "href": "https://www.euronews.com/next/2023/12/29/from-emotion-ai-to-space-what-to-expect-from-tech-in-2024",
+            "title": "\u60c5\u611f\u4eba\u5de5\u667a\u80fd\u53ef\u80fd\u4f1a\u4ece\u751f\u6210\u6027\u4eba\u5de5\u667a\u80fd\u624b\u4e2d\u593a\u5f97\u6842\u51a0\uff0c\u800c\u7a7a\u95f4\u6280\u672f\u53ef\u4ee5\u62ef\u6551\u4eba\u7c7b\u3002Euronews\u63a5\u4e0b\u6765\u7740\u773c\u4e8e\u6211\u4eec\u57282024\u5e74\u53ef\u4ee5\u4ece\u6280\u672f\u4e2d\u671f\u5f85\u4ec0\u4e48\u3002"
+        },
+        {
+            "href": "https://www.euronews.com/next/2023/12/27/new-york-times-files-lawsuit-against-openai-and-microsoft-over-use-of-articles-to-train-ai",
+            "title": "\u300a\u7ebd\u7ea6\u65f6\u62a5\u300b\u5c31OpenAI\u548c\u5fae\u8f6f\u5bf9AI\u7684\u4f7f\u7528\u53d1\u8868\u8bc4\u8bba"
+        },
+        {
+            "href": "https://www.euronews.com/next/2023/12/27/2023-was-the-year-ai-went-mainstream-it-was-also-the-year-we-started-to-panic-about-it",
+            "title": "\u751f\u6210\u6027\u4eba\u5de5\u667a\u80fd(AI)\u5de5\u5177\uff0c\u5982OpenAI\u7684ChatGPT\uff0c\u5f15\u53d1\u4e86\u4eba\u4eec\u5bf9\u8fd9\u9879\u6280\u672f\u7684\u5174\u8da3\u6fc0\u589e\u3002\u4f46\u8fd9\u4e5f\u52a0\u5267\u4e86\u4eba\u4eec\u5bf9\u5b83\u7684\u7126\u8651\u3002"
+        }
+    ],
+    "BBC": [
+        {
+            "href": "https://www.bbc.co.uk/news/business-67922588",
+            "title": "1\u670811\u65e500\uff1a15\u300a\u52a8\u753b\u5e08\u8bf4\u4eba\u5de5\u667a\u80fd\u4e0d\u4f1a\u7ed9\u4f60\u5e26\u6765\u5965\u65af\u5361\u5956\u300b\uff0c\u53d1\u8868\u4e8e1\u670811\u65e500\uff1a15"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/technology-67872693",
+            "title": "1\u67085\u65e500\uff1a01\u5e74\u8f7b\u4eba\u8f6c\u5411AI\u6cbb\u7597\u5e08\u673a\u5668\u4eba\uff0c\u53d1\u5e03\u4e8e1\u67085\u65e500\uff1a01\u5e74\u8f7b\u4eba\u8f6c\u5411AI\u6cbb\u7597\u5e08"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/technology-67872767",
+            "title": "1\u67083\u65e514\uff1a32\u667a\u5e93\u53d1\u5e031\u67083\u65e514\uff1a32\u300a\u6e05\u9664\u6050\u6016\u4e3b\u4e49\u4eba\u5de5\u667a\u80fd\u6cd5\u5f8b\u300b\u79f0\uff0cThink"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/world-us-canada-67830605",
+            "title": "2023\u5e7412\u670827\u65e521\uff1a29\u4e13\u5bb6\uff1aAI\u2018\u4f24\u5bb3\u4fdd\u6301\u6c11\u4e3b\u6d3b\u529b\u7684\u80fd\u529b\u2019\u89c6\u9891\uff0c00\uff1a00\uff1a55\u53d1\u5e03\u4e8e2023\u5e7412\u670827\u65e521\uff1a29\u4e13\u5bb6\uff1aAI\u2018\u4f24\u5bb3\u4fdd\u6301\u6c11\u4e3b\u7684\u80fd\u529b\u2019"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/technology-67826601",
+            "title": "2023\u5e7412\u670827\u65e514\uff1a45\u7ebd\u7ea6\u65f6\u62a5\u62a5\u9053\u5fae\u8f6f\u548cOpenAI\u7684\u201c\u5341\u4ebf\u201d\uff0c\u53d1\u8868\u4e8e2023\u5e7412\u670827\u65e514\uff1a45\u7ebd\u7ea6\u65f6\u62a5\u62a5\u9053\u5fae\u8f6f\u548cOpenAI\u7684\u201c\u5341\u4ebf\u201d\uff0c\u53d1\u8868\u4e8e2023\u5e7412\u670827\u65e514\uff1a45\u7ebd\u7ea6\u65f6\u62a5\u62a5\u9053\u5fae\u8f6f\u548cOpenAI\u7684\u201c\u5341\u4ebf\u201d\uff0c\u53d1\u8868\u4e8e2023\u5e7412\u670827\u65e514\uff1a45"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/business-67273155",
+            "title": "2024\u5e74\u6280\u672f\u8d8b\u52bf\uff1a\u4eba\u5de5\u667a\u80fd\u548c\u7535\u52a8\u6c7d\u8f66"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/technology-67772177",
+            "title": "\u4eba\u5de5\u667a\u80fd\u4e0d\u80fd\u4e3a\u53d1\u660e\u7533\u8bf7\u4e13\u5229\uff0c\u82f1\u56fd\u6700\u9ad8\u6cd5\u9662"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/business-67378441",
+            "title": "\u96c7\u4e3b\u5e0c\u671b\u5458\u5de5\u77e5\u9053\u4ec0\u4e48\uff1f"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/technology-67578656",
+            "title": "OpenAI\u6df7\u4e71\u4e0eAI\u5b89\u5168\u65e0\u5173\uff0c\u79f0"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/technology-67484455",
+            "title": "\u5fae\u8f6f\u63d0\u51fa\u4e0e\u6240\u6709OpenAI\u7684\u85aa\u916c\u76f8\u5f53"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/business-67649177",
+            "title": "\u7ed9\u90a3\u5934\u9cb8\u9c7c\u8d77\u4e2a\u540d\u5b57\uff01\u4eba\u5de5\u667a\u80fd\u5982\u4f55\u8ba9\u52a8\u7269\u6210\u4e3a\u738b\u724c"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/uk-67302048",
+            "title": "\u57c3\u9686\u00b7\u9a6c\u65af\u514b\u544a\u8bc9Rishi Sunak AI\u5c06\u7ed3\u675f"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/technology-67285315",
+            "title": "\u82cf\u7eb3\u514b\u8bf4\uff0c\u4eba\u5de5\u667a\u80fd\u516c\u53f8\u4e0d\u80fd\u2018\u6807\u8bb0\u81ea\u5df1\u7684"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/uk-politics-67296825",
+            "title": "\u6559\u80b2\u5c06\u964d\u4f4e\u4eba\u5de5\u667a\u80fd\u5bf9\u5de5\u4f5c\u7684\u98ce\u9669"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/business-67217915",
+            "title": "\u4e3a\u4ec0\u4e48\u4f7f\u7528AI\u7684\u5973\u6027\u6bd4"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/uk-england-cambridgeshire-67264900",
+            "title": "05\uff1a59 1\u67083\u65e505\uff1a59\u4f9d\u9760\u4eba\u5de5\u667a\u80fd\u6cbb\u7597\u75f4\u5446\u75c7\u548c\u836f\u7269\u7684\u516c\u53f8\uff0c\u53d1\u8868\u4e8e1\u67083\u65e505\uff1a59\u3002"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/business-67494165",
+            "title": "Sam Altman\u5c06\u4ee5OpenAI\u7684\u8eab\u4efd\u56de\u5f52"
+        },
+        {
+            "href": "https://www.bbc.co.uk/future/article/20230717-what-you-should-know-about-artificial-intelligence-from-a-z",
+            "title": "\u4f60\u9700\u8981\u7406\u89e3\u768430\u4e2a\u672f\u8bed"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/business-67156176",
+            "title": "Airbnb\u6c42\u52a9\u4e8e\u4eba\u5de5\u667a\u80fd\u6765\u5e2e\u52a9\u9632\u6b62\u623f\u5c4b"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/business-67054382",
+            "title": "\u4eba\u5de5\u667a\u80fd\u521b\u5efa\u7684\u4e2a\u4eba\u8d44\u6599\u56fe\u7247\u662f\u5426\u53ef\u4ee5\u5e2e\u52a9\u60a8\u83b7\u5f97"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/uk-66110953",
+            "title": "\u4eba\u5de5\u667a\u80fd\u95ee\u7b54\uff1a\u4f60\u80fd\u5206\u8fa8\u51fa\u54ea\u4e2a\u4eba\u662f"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/technology-67959240",
+            "title": "03\uff1a15 AI\u6795\u5934\u548c\u7259\u5237\uff1a\u8fd9\u4e00\u5207\u90fd\u53d8\u5f97\u6709\u70b9\u50bb\u5417\uff1f\uff0c\u53d1\u8868\u4e8e03\uff1a15AI\u6795\u5934\u548c\u7259\u5237\uff1a\u8fd9\u4e00\u5207\u90fd\u6709\u70b9"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/technology-67959242",
+            "title": "03\uff1a14\u6211\u4eec\u9700\u8981\u4e00\u9762\u4eba\u5de5\u667a\u80fd\u955c\u5b50\u5417\uff1f\u89c6\u9891\u53d1\u5e03\u65f6\u95f4\uff1a03\uff1a14 00\uff1a00\uff1a34\u6211\u4eec\u9700\u8981\u4eba\u5de5\u667a\u80fd\u5417"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/uk-england-kent-67945534",
+            "title": "1\u670812\u65e506\uff1a10\u4eba\u5de5\u667a\u80fd\u53ef\u4ee5\u963b\u6b62\u5386\u53f2\u9057\u8ff9\u7684\u7834\u574f\uff0c\u53d1\u5e03\u65f6\u95f4\u4e3a1\u670812\u65e506\uff1a10"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/uk-politics-67944529",
+            "title": "\u90e8\u957f\u5e0c\u671b\u907f\u514d\u5c06\u4eba\u5de5\u667a\u80fd\u5916\u5305\u7ed9\u79d1\u6280\u516c\u53f8\uff0c\u53d1\u5e03\u4e8e1\u670811\u65e518\uff1a55\u90e8\u957f\u5e0c\u671b\u907f\u514d\u5c06\u4eba\u5de5\u667a\u80fd\u5916\u5305\u7ed9\u79d1\u6280\u516c\u53f8"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/technology-67922303",
+            "title": "1\u670811\u65e514\uff1a45\u6e38\u620f\u914d\u97f3\u6f14\u5458\u88ab\u8054\u76dfAI\u4ea4\u6613\u8499\u853d\uff0c\u53d1\u5e03\u4e8e1\u670811\u65e514\uff1a45\u6e38\u620f\u914d\u97f3\u6f14\u5458\u88ab\u8054\u76dfAI\u8499\u853d"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/technology-67944537",
+            "title": "1\u670811\u65e514\uff1a36\u6211\u4eec\u7684\u6307\u7eb9\u53ef\u80fd\u4e0d\u662f\u552f\u4e00\u7684\uff0c\u58f0\u79f0AI\uff0c\u53d1\u8868\u4e8e1\u670811\u65e514\uff1a36"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-67934795",
+            "title": "1\u670810\u65e514\uff1a50\u4eba\u5de5\u667a\u80fd\u673a\u5668\u4eba\u4e0a\u8def\u586b\u5751\uff0c1\u670810\u65e514\uff1a50\u53d1\u5e03\u4eba\u5de5\u667a\u80fd\u673a\u5668\u4eba\u4e0a\u8def\u586b\u5751"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/technology-67912033",
+            "title": "1\u67089\u65e516\uff1a00 AI\u53d1\u73b0\u7684\u6750\u6599\u53ef\u4ee5\u51cf\u5c11\u9502\u7684\u4f7f\u7528\uff0c\u53d1\u8868\u4e8e1\u67089\u65e516\uff1a00 AI\u53d1\u73b0\u7684\u6750\u6599\u53ef\u4ee5\u51cf\u5c11\u9502\u7684\u4f7f\u7528"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-67906106",
+            "title": "1\u67088\u65e506\uff1a26\u300a\u732b\u738bAI\u79c0\u66f4\u50cf\u65f6\u95f4\u65c5\u884c\u800c\u4e0d\u662f\u963f\u5df4\u300b\uff0c\u53d1\u5e03\u4e8e1\u67088\u65e506\uff1a26\u300a\u732b\u738bAI\u79c0\u66f4\u50cf\u65f6\u95f4\u65c5\u884c\u800c\u975e\u963f\u5df4\u300b"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/uk-england-oxfordshire-67890403",
+            "title": "06\uff1a04 1\u67088\u65e5\u81ea\u52a8\u9a7e\u9a76\u6c7d\u8f66\u80cc\u540e\u7684\u4eba\u5de5\u667a\u80fd\u6280\u672f\uff0c\u53d1\u8868\u4e8e06\uff1a04 1\u67088\u65e5\u81ea\u52a8\u9a7e\u9a76\u6c7d\u8f66\u80cc\u540e\u7684\u4eba\u5de5\u667a\u80fd\u6280\u672f"
+        },
+        {
+            "href": "https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-67876512",
+            "title": "1\u67084\u65e506\uff1a13\u4eba\u5de5\u667a\u80fd\u5de5\u7a0b\u5e08\u60f3\u8981\u66f4\u591a\u5357\u4e9a\u5973\u6027\u8fdb\u5165\u79d1\u6280\u884c\u4e1a\uff0c\u53d1\u8868\u4e8e1\u67084\u65e506\uff1a13 AI\u5de5\u7a0b\u5e08\u60f3\u8981\u66f4\u591a\u5357\u4e9a\u5973\u6027"
+        }
+    ],
+    "Time": [
+        {
+            "href": "https://time.com/6554118/congress-ai-journalism-hearing/",
+            "title": "\u4e13\u5bb6\u8b66\u544a\u56fd\u4f1aAI\u5bf9\u65b0\u95fb\u4e1a\u6784\u6210\u7684\u5371\u9669              \u9970Will Henshall"
+        },
+        {
+            "href": "https://time.com/6553908/ai-misinformation-threat-wef/",
+            "title": "\u4e16\u754c\u7ecf\u6d4e\u8bba\u575b\u62a5\u544a\u8b66\u544a\u4eba\u5de5\u667a\u80fd\u9519\u8bef\u4fe1\u606f  \u4f5c\u8005\u9648\u51ef\u6587/\u7f8e\u8054\u793e"
+        },
+        {
+            "href": "https://time.com/6553910/ai-device-rabbit-r1-humane/",
+            "title": "\u4eba\u5de5\u667a\u80fd\u8bbe\u5907\u7ade\u8d5b\u6b63\u5728\u5347\u6e29  \u4e00\u5927\u6279\u65b0\u7684\u4eba\u5de5\u667a\u80fd\u4f18\u5148\u8bbe\u5907\u521d\u521b\u516c\u53f8\u6b63\u5728\u7ade\u76f8\u4e3b\u5bfc\u4e00\u4e2a\u65b0\u7684\u4ea7\u54c1\u7c7b\u522b\u3002  \u4f5c\u8005\uff1a\u6bd4\u5229"
+        },
+        {
+            "href": "https://time.com/6553469/microsoft-openai-eu-merger-probe/",
+            "title": "\u6b27\u76df\u8003\u8651\u8c03\u67e5\u5fae\u8f6f\u4e0eOpenAI\u7684\u5173\u7cfb  \u5fae\u8f6f\u5411OpenAI\u6295\u8d44130\u4ebf\u7f8e\u5143\uff0c\u53ef\u80fd\u4f1a\u906d\u5230\u6b27\u76df\u4ea4\u6613\u76d1\u7ba1\u673a\u6784\u7684\u5168\u9762\u8c03\u67e5\u3002"
+        },
+        {
+            "href": "https://time.com/6553218/robots-ai-autonomous-essay/",
+            "title": "\u673a\u5668\u4eba\u5e94\u8be5\u6709\u591a\u806a\u660e\uff1f  \u4f0a\u8299\u00b7\u8d6b\u7f57\u5fb7\u5199\u9053\uff0c\u4eba\u5de5\u667a\u80fd\u53d8\u5f97\u8d8a\u81ea\u4e3b\uff0c\u5c31\u8d8a\u96be\u63a7\u5236\u6216\u89e3\u51b3\u95ee\u9898\u3002"
+        },
+        {
+            "href": "https://time.com/6553030/ai-legal-opinions-england-wales/",
+            "title": "\u82f1\u683c\u5170\u548c\u5a01\u5c14\u58eb\u7684\u6cd5\u5b98\u53ef\u4ee5\u4f7f\u7528\u4eba\u5de5\u667a\u80fd  \u7f8e\u56fd\u6cd5\u9662\u548c\u6cd5\u5ead\u53f8\u6cd5\u673a\u6784\u8868\u793a\uff0c\u6cd5\u5b98\u53ef\u4ee5\u4f7f\u7528\u4eba\u5de5\u667a\u80fd\u6765\u5e2e\u52a9\u64b0\u5199\u610f\u89c1\uff0c\u4f46\u544a\u8beb\u4e0d\u8981\u4f7f\u7528\u4eba\u5de5\u667a\u80fd"
+        },
+        {
+            "href": "https://time.com/6552233/generative-ai-reveals-human-mind/",
+            "title": "\u751f\u6210\u6027\u4eba\u5de5\u667a\u80fd\u63ed\u793a\u4e86\u5173\u4e8e\u601d\u7ef4\u7684\u4ec0\u4e48  \u4e0e\u8fd9\u79cd\u5bf9\u4eba\u8111\u548c\u4eba\u7c7b\u7684\u7406\u89e3\u76f8\u6bd4\uff0cChatGPT\u548c\u5176\u4ed6\u5f53\u4ee3\u4eba\u5de5\u667a\u80fd\u770b\u8d77\u6765\u5982\u4f55"
+        },
+        {
+            "href": "https://time.com/6551407/ai-stem-jobs-pissarides/",
+            "title": "\u8bfa\u8d1d\u5c14\u5956\u5f97\u4e3b\u8b66\u544a\u4eba\u5de5\u667a\u80fd\u53ef\u80fd\u53d6\u4ee3STEM\u5de5\u4f5c  \u4e00\u4f4d\u8bfa\u8d1d\u5c14\u5956\u5f97\u4e3b\u7ecf\u6d4e\u5b66\u5bb6\u544a\u8beb\u4e0d\u8981\u7814\u7a76STEM\u4e3b\u9898\uff0c\u4ed6\u8bf4\uff0c\u201c\u79fb\u60c5\u201d\u6280\u80fd\u53ef\u80fd\u4f1a\u5728"
+        },
+        {
+            "href": "https://time.com/6549810/ai-health-coach/",
+            "title": "AI\u5065\u5eb7\u6559\u7ec3\u6765\u4e86                            \u7814\u7a76\u4eba\u5458\u548c\u6280\u672f\u4eba\u5458\u6b63\u5728\u6784\u5efaAI\u5065\u5eb7\u6559\u7ec3\uff0c\u901a\u8fc7\u7b5b\u9009\u5065\u5eb7\u6570\u636e\u5e76\u544a\u8bc9\u7528\u6237\u5982\u4f55\u4fdd\u6301\u6218\u6597"
+        },
+        {
+            "href": "https://time.com/6547982/3-big-ai-innovations-from-2023/",
+            "title": "2023\u5e743\u5927AI\u521b\u65b0                            \u4ee5\u4e0b\u662f\u8fc7\u53bb\u4e00\u5e74\u4eba\u5de5\u667a\u80fd\u9886\u57df\u7684\u4e09\u5927\u521b\u65b0\u3002               \u901a\u8fc7"
+        },
+        {
+            "href": "https://time.com/6343945/ai-music-movies-art-2023/",
+            "title": "2023\u5e74\u4eba\u5de5\u667a\u80fd\u91cd\u5851\u6587\u5316\u7684\u56db\u4e2a\u5173\u952e\u65b9\u5f0f  \u4ece\u5fb7\u96f7\u514b\u7684\u6a21\u4eff\u8005\u5230\u597d\u83b1\u575e\u7684\u7f62\u5de5\uff0c\u4eba\u5de5\u667a\u80fd\u5728\u6574\u4e2a\u5a31\u4e50\u754c\u65e2\u6fc0\u8d77\u4e86\u70ed\u60c5\uff0c\u4e5f\u5f15\u53d1\u4e86\u6050\u614c\u3002"
+        }
+    ],
+    "AP": [
+        {
+            "href": "https://apnews.com/article/artificial-intelligence-tennessee-songwriting-1f86fa83b3ddc1b0ea6d708745727099",
+            "title": "\u7530\u7eb3\u897f\u5dde\u5dde\u957f\uff0c\u97f3\u4e50\u9886\u8896\u53d1\u8d77\u63a8\u52a8\u4fdd\u62a4\u8bcd\u66f2\u4f5c\u8005\u548c\u5176\u4ed6\u827a\u672f\u5bb6\uff0c"
+        },
+        {
+            "href": "https://apnews.com/article/ces-2024-tech-gadgets-jan-10-updates-a7dbb7c5966f654e09f1f28685839d82",
+            "title": "CES 2024\u66f4\u65b0\uff1a\u4eba\u5de5\u667a\u80fd\u7b97\u547d\uff0c\u65e0\u969c\u788d\u6e38\u620f\uff0c\u98de\u884c\u51fa\u79df\u8f66\u548c\u739b\u838e"
+        },
+        {
+            "href": "https://apnews.com/article/artificial-intelligence-davos-misinformation-disinformation-climate-change-106a1347ca9f987bf71da1f86a141968",
+            "title": "\u8fbe\u6c83\u65af\u62a5\u544a\u79f0\uff0c\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u7684\u9519\u8bef\u4fe1\u606f\u662f\u4e16\u754c\u4e0a\u6700\u5927\u7684\u77ed\u671f\u5a01\u80c1"
+        },
+        {
+            "href": "https://apnews.com/article/cybersecurity-artificial-intelligence-maryland-5c717edf10e22428a4214a698e31dd45",
+            "title": "\u9a6c\u91cc\u5170\u5dde\u5dde\u957f\u7b7e\u7f72\u884c\u653f\u547d\u4ee4\u6307\u5bfcAI"
+        },
+        {
+            "href": "https://apnews.com/article/artificial-intelligence-ai-guidance-england-wales-judges-c2ab374237a563d3e4bbbb56876955f7",
+            "title": "\u82f1\u683c\u5170\u548c\u5a01\u5c14\u58eb\u7684\u6cd5\u5b98\u83b7\u5f97\u8c28\u614e\u6279\u51c6\uff0c\u53ef\u4ee5\u5728\u6cd5\u5f8b\u5199\u4f5c\u4e2d\u4f7f\u7528\u4eba\u5de5\u667a\u80fd"
+        },
+        {
+            "href": "https://apnews.com/article/microsoft-windows-copilot-keyboard-ai-button-27078255bd934bf84d3cc6fbe37bb17c",
+            "title": "\u4ece\u672c\u6708\u5f00\u59cb\uff0c\u4e00\u4e9b\u8fd0\u884c\u5fae\u8f6fWindows 11\u64cd\u4f5c\u7cfb\u7edf\u7684\u65b0\u4e2a\u4eba\u7535\u8111\u5c06\u6709\u4e00\u4e2a\u7279\u6b8a\u7684\u201cCopilot Key\u201d\uff0c\u542f\u52a8\u8fd9\u5bb6\u8f6f\u4ef6\u5de8\u5934\u7684AI\u804a\u5929\u673a\u5668\u4eba\u3002"
+        },
+        {
+            "href": "https://apnews.com/article/nyt-new-york-times-openai-microsoft-6ea53a8ad3efa06ee4643b697df0ba57",
+            "title": "\u300a\u7ebd\u7ea6\u65f6\u62a5\u300b\u6b63\u5728\u8d77\u8bc9OpenAI\u548c\u5fae\u8f6f\uff0c\u8bd5\u56fe\u7ed3\u675f\u7528\u5b83\u7684\u6545\u4e8b\u8bad\u7ec3\u804a\u5929\u673a\u5668\u4eba\u7684\u505a\u6cd5\u3002"
+        },
+        {
+            "href": "https://apnews.com/article/ai-pioneer-feifei-li-stanford-computer-vision-imagenet-702717c10defd89feabf01e6c1566a4b",
+            "title": "\u4eba\u5de5\u667a\u80fd\u5148\u9a71\u8bf4\uff0c\u5173\u4e8e\u667a\u80fd\u673a\u5668\u7684\u516c\u5171\u8bdd\u8bed\u5fc5\u987b\u201c\u9002\u5f53\u5c0a\u91cd\u4eba\u7c7b\u201d"
+        },
+        {
+            "href": "https://apnews.com/article/generative-ai-illegal-images-child-abuse-3081a81fa79e2a39b67c11201cfd085f",
+            "title": "\u4e00\u9879\u7814\u7a76\u79f0\uff0c\u4eba\u5de5\u667a\u80fd\u56fe\u50cf\u751f\u6210\u5668\u6b63\u5728\u63a5\u53d7\u513f\u7ae5\u9732\u9aa8\u7167\u7247\u7684\u57f9\u8bad"
+        },
+        {
+            "href": "https://apnews.com/article/ai-2023-artificial-intelligence-chatgpt-dangers-565ff5b817b5db0d4e74829ae3d68611",
+            "title": "\u5728\u4eba\u5de5\u667a\u80fd\u6210\u4e3a\u4e3b\u6d41\u7684\u4e00\u5e74\u91cc\uff0cChatGPT\u662f\u50ac\u5316\u5242\u3002\u5bf9\u4e8e\u4eba\u5de5\u667a\u80fd\u6765\u8bf4\uff0c2023\u5e74\u662f\u4e00\u4e2a\u5f88\u957f\u7684\u65f6\u95f4\u3002"
+        },
+        {
+            "href": "https://apnews.com/article/vatican-pope-ai-artificial-intelligence-9805fec11681adbf88d3a7c73bdf47de",
+            "title": "\u6559\u7687\u65b9\u6d4e\u5404\u662f\u4e00\u5f20\u4ed6\u7a7f\u7740\u84ec\u677e\u5939\u514b\u7684\u6df1\u5ea6\u5047\u7167\u7247\u7684\u53d7\u5bb3\u8005\u3002\u73b0\u5728\u4ed6\u60f3\u8981\u4e00\u9879\u6761\u7ea6\u6765\u89c4\u8303"
+        },
+        {
+            "href": "https://apnews.com/article/ai-chatbot-voters-election-2024-pennsylvania-db25cede35aa258d3e44563b517cc457",
+            "title": "\u56fd\u4f1a\u5019\u9009\u4eba\u7684\u9009\u6c11\u5916\u8054\u5de5\u5177\u662f2024\u5e74\u4e4b\u524d\u7684\u6700\u65b0\u4eba\u5de5\u667a\u80fd\u5b9e\u9a8c"
+        },
+        {
+            "href": "https://apnews.com/article/eu-ai-act-artificial-intelligence-regulation-0283a10a891a24703068edcae3d60deb",
+            "title": "\u6b27\u6d32\u5c31\u4e16\u754c\u9886\u5148\u7684\u4eba\u5de5\u667a\u80fd\u89c4\u5219\u8fbe\u6210\u4e00\u81f4\u3002\u5b83\u4eec\u662f\u5982\u4f55\u5de5\u4f5c\u7684\uff1f\u5b83\u4eec\u4f1a\u5f71\u54cd\u4eba\u4eec\u5417\uff1f"
+        },
+        {
+            "href": "https://apnews.com/article/amazon-aws-generative-ai-anthropic-chatgpt-6676af80819ef81cdc3913fd4541b641",
+            "title": "AWS\u9996\u5e2d\u6267\u884c\u5b98Adam Selipsky\u8c08\u751f\u6210\u6027\u4eba\u5de5\u667a\u80fd\uff0c\u4e9a\u9a6c\u900a\u5bf9\u4eba\u7c7b\u548c\u4e91\u6210\u672c\u7684\u6295\u8d44"
+        },
+        {
+            "href": "https://apnews.com/article/ai-act-europe-regulation-59466a4d8fd3597b04542ef25831322c",
+            "title": "\u6b27\u6d32\u5c31\u4e16\u754c\u4e0a\u7b2c\u4e00\u4e2a\u5168\u9762\u7684\u4eba\u5de5\u667a\u80fd\u8fbe\u6210\u534f\u8bae"
+        },
+        {
+            "href": "https://apnews.com/article/nvidia-malaysia-huang-ai-data-a55209db56cdd3f85d2b7ea06516cc5d",
+            "title": "NVIDIA\u9996\u5e2d\u6267\u884c\u5b98\u6697\u793a\uff0c\u968f\u7740\u4e1c\u5357\u4e9a\u6570\u636e\u7684\u6269\u5f20\uff0c\u9a6c\u6765\u897f\u4e9a\u53ef\u80fd\u6210\u4e3a\u4eba\u5de5\u667a\u80fd\u201c\u5236\u9020\u201d\u4e2d\u5fc3"
+        },
+        {
+            "href": "https://apnews.com/article/ai-act-europe-regulation-chatgpt-e0b5fa1266dc7a15069bebe7d72852bf",
+            "title": "\u6b27\u6d32\u5173\u4e8e\u4e16\u754c\u9886\u5148\u7684\u4eba\u5de5\u667a\u80fd\u89c4\u5219\u7684\u8c08\u5224\u572822\u5c0f\u65f6\u540e\u6682\u505c\uff0c\u5e76\u5c06\u91cd\u65b0\u5f00\u59cb"
+        },
+        {
+            "href": "https://apnews.com/article/google-gemini-artificial-intelligence-launch-95d05d02051e75e20b574614ae720b8b",
+            "title": "\u5468\u4e09\uff0c\u8c37\u6b4c\u5728\u4eba\u5de5\u667a\u80fd\u9886\u57df\u5b9e\u73b0\u4e86\u4e0b\u4e00\u6b21\u98de\u8dc3\uff0c\u63a8\u51fa\u4e86\u53cc\u5b50\u5ea7\u9879\u76ee\uff0c\u8fd9\u662f\u4e00\u79cd\u4eba\u5de5\u667a\u80fd\u6a21\u578b\uff0c\u7ecf\u8fc7\u8bad\u7ec3\u540e\u53ef\u4ee5\u4ee5\u7c7b\u4f3c\u4eba\u7c7b\u7684\u65b9\u5f0f\u884c\u4e8b\uff0c\u8fd9\u53ef\u80fd\u4f1a\u52a0\u5267\u5173\u4e8e\u8fd9\u9879\u6280\u672f\u6f5c\u5728\u524d\u666f\u548c\u5371\u9669\u7684\u8fa9\u8bba\u3002"
+        },
+        {
+            "href": "https://apnews.com/article/bank-of-england-ai-risks-britain-25a37ebaf59aa398f8a4e2310ee5a0e1",
+            "title": "\u82f1\u56fd\u592e\u884c\u5c06\u68c0\u89c6\u4eba\u5de5\u667a\u80fd\u5bf9\u82f1\u56fd\u91d1\u878d\u6784\u6210\u7684\u98ce\u9669"
+        },
+        {
+            "href": "https://apnews.com/article/ai-act-talks-artificial-intelligence-regulation-e2bb57eef7ba6d2b0c85ef757fcd3bb0",
+            "title": "\u751f\u6210\u6027\u4eba\u5de5\u667a\u80fd\u7684\u7e41\u8363\u4fc3\u4f7f\u4e16\u754c\u5404\u56fd\u653f\u5e9c\u4e89\u5148\u6050\u540e\u5730\u76d1\u7ba1\u8fd9\u9879\u65b0\u5174\u6280\u672f\u3002"
+        },
+        {
+            "href": "https://apnews.com/article/ai-opensource-meta-ibm-chatgpt-dd61e99ac8135b36872b3987601067ec",
+            "title": "AI\u7684\u672a\u6765\u53ef\u80fd\u662f\u201c\u5f00\u6e90\u201d\u6216\u5c01\u95ed\u7684\u3002\u79d1\u6280\u5de8\u5934\u5728\u6e38\u8bf4\u65f6\u610f\u89c1\u5206\u6b67"
+        },
+        {
+            "href": "https://apnews.com/article/journalists-ai-counterfeit-writers-479cc3869c0638df5bbb26d4b1e4f18f",
+            "title": "\u300a\u4f53\u80b2\u753b\u62a5\u300b\u662f\u6700\u65b0\u4e00\u5bb6\u88ab\u4eba\u5de5\u667a\u80fd\u5b9e\u9a8c\u7834\u574f\u7684\u5a92\u4f53\u516c\u53f8"
+        },
+        {
+            "href": "https://apnews.com/article/us-military-ai-projects-0773b4937801e7a0573f44b57a9a5942",
+            "title": "\u4e94\u89d2\u5927\u697c\u7684\u4eba\u5de5\u667a\u80fd\u5021\u8bae\u52a0\u901f\u4e86\u81f4\u547d\u81ea\u4e3b\u7684\u8270\u96be\u51b3\u5b9a"
+        },
+        {
+            "href": "https://apnews.com/article/putin-russia-artificial-intelligence-3098b4f5205785f1b8281b34f13bff92",
+            "title": "\u666e\u4eac\u5c06\u63a8\u52a8\u4fc4\u7f57\u65af\u7684\u4eba\u5de5\u667a\u80fd\u5de5\u4f5c\uff0c\u4ee5\u6253\u51fb\u897f\u65b9\u7684\u5784\u65ad\uff0c\u4ed6\u8bf4\u8fd9\u662f\u201c\u4e0d\u53ef\u63a5\u53d7\u7684\uff0c"
+        },
+        {
+            "href": "https://apnews.com/article/openai-sam-altman-firing-saga-explained-51ae332acc18a41b51df5a39efa146d3",
+            "title": "\u5bf9\u4e8eChatGPT\u5236\u9020\u5546OpenAI\u548c\u8054\u5408\u521b\u59cb\u4ebaSam Altman\u6765\u8bf4\uff0c\u8fd9\u662f\u76f8\u5f53\u957f\u7684\u4e00\u5468\u3002Altman\u57282015\u5e74\u5e2e\u52a9OpenAI\u6210\u4e3a\u4e00\u4e2a\u975e\u8425\u5229\u7814\u7a76\u5b9e\u9a8c\u5ba4\uff0c\u4ed6\u5728\u5468\u4e94\u88ab\u89e3\u96c7\u4e3a\u9996\u5e2d\u6267\u884c\u5b98\uff0c\u8fd9\u662f\u4e00\u4e2a\u7a81\u7136\u7684\uff0c\u51e0\u4e4e\u65e0\u6cd5\u89e3\u91ca\u7684\u9000\u51fa\uff0c\u9707\u60ca\u4e86\u6574\u4e2a\u884c\u4e1a\u3002"
+        },
+        {
+            "href": "https://apnews.com/article/emmett-shear-openai-sam-altman-6be0505112cd9e375e5f5383b5abe6d9",
+            "title": "OpenAI\u5c06\u8058\u8bf7Twitch\u524d\u8d1f\u8d23\u4eba\u62c5\u4efb\u4e34\u65f6\u9996\u5e2d\u6267\u884c\u5b98\uff0c\u5c31\u5728\u51e0\u5929\u524d\uff0c\u8be5\u516c\u53f8\u7f62\u514d\u4e86\u77e5\u540d\u9886\u5bfc\u4eba\u8428\u59c6\u00b7\u5965\u7279\u66fc\uff0c\u5f15\u53d1\u4e86\u4eba\u5de5\u667a\u80fd\u4e16\u754c\u7684\u5267\u53d8\u3002"
+        },
+        {
+            "href": "https://apnews.com/article/pentagon-insider-ai-technology-cd1530bc621abf14954de49c2ee0896d",
+            "title": "\u5185\u5e55Q&A\uff1a\u4e94\u89d2\u5927\u697cAI\u4e3b\u7ba1\u5173\u4e8e\u7f51\u7edc\u4e2d\u5fc3\u6218\uff0c\u751f\u6210AI"
+        },
+        {
+            "href": "https://apnews.com/article/ai-copyright-artificial-intelligence-b456fa19dd90bea87533f97f043a31bc",
+            "title": "\u8bf7\u89c4\u8303\u4eba\u5de5\u667a\u80fd\uff1a\u827a\u672f\u5bb6\u63a8\u52a8\u7f8e\u56fd\u7248\u6743\u6539\u9769\uff0c\u4f46\u79d1\u6280\u884c\u4e1a\u8868\u793a\u4e0d\u662f\u8fd9\u6837"
+        },
+        {
+            "href": "https://apnews.com/article/x-musk-twitter-open-ai-chatgpt-highlights-b20cdf84c0608c21593a98aa4fb77e6b",
+            "title": "\u5546\u4e1a\u4eae\u70b9\uff1a\u5e7f\u544a\u5546\u9003\u79bbX\uff0c\u9a6c\u65af\u514b\u652f\u6301\u53cd\u72b9\u9634\u8c0b\uff1b\u5f00\u653e\u4eba\u5de5\u667a\u80fd\u6c9f\u6e20"
+        },
+        {
+            "href": "https://apnews.com/article/altman-ai-chatgpt-murati-893e4a460c10eb3a8f1afefa6156eca3",
+            "title": "ChatGPT\u5236\u9020\u5546Open AI\u7684\u8463\u4e8b\u4f1a\u8868\u793a\uff0c\u8be5\u516c\u53f8\u5df2\u7ecf\u89e3\u96c7\u4e86\u8054\u5408\u521b\u59cb\u4eba\u517c\u9996\u5e2d\u6267\u884c\u5b98\u8428\u59c6\u00b7\u963f\u5c14\u7279\u66fc\uff0c\u7531\u4e00\u540d\u4e34\u65f6\u9996\u5e2d\u6267\u884c\u5b98\u53d6\u800c\u4ee3\u4e4b\u3002"
+        },
+        {
+            "href": "https://apnews.com/article/amazon-alexa-job-cuts-generative-ai-9d5ca4fd9240a091657e6f7c4da870d9",
+            "title": "\u4e9a\u9a6c\u900a\u5728\u5176Alexa\u90e8\u95e8\u88c1\u5458\u6570\u767e\u4eba\uff0c\u56e0\u4e3a\u5b83\u5c06\u8d44\u6e90\u6295\u5165"
+        }
+    ],
+    "Science Daily": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/12/231221012729.htm",
+            "title": "\u89c1\u4e00\u89c1\u4f60\u7684\u4eba\u5de5\u667a\u80fd\u5b9e\u9a8c\u5ba4--\u201c\u5b87\u5b99\u79d1\u5b66\u5bb6\u201d"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/12/231211114509.htm",
+            "title": "\u4eba\u5de5\u667a\u80fd\u804a\u5929\u673a\u5668\u4eba\u663e\u793a\u51fa\u8bca\u65ad\u6f5c\u529b"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2024/01/240109170521.htm",
+            "title": "\u4eba\u5de5\u667a\u80fd\u5c06\u8ba9\u4e92\u8054\u7f51\u53d8\u5f97\u66f4\u52a0"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/12/231204135128.htm",
+            "title": "AI\u7f51\u7edc\u6613\u53d7\u6076\u610f\u653b\u51fb"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/11/231130145423.htm",
+            "title": "2D\u6750\u6599\u4e3a\u4eba\u5de5\u667a\u80fd\u91cd\u58513D\u7535\u5b50\u3002"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/11/231120170939.htm",
+            "title": "\u751f\u6210\u6027\u65f6\u4ee3\u7684\u521b\u9020\u529b"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/12/231221012822.htm",
+            "title": "\u4eba\u5de5\u667a\u80fd\u6539\u53d8\u4e2d\u5c42\u7ba1\u7406\u4eba\u5458"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/11/231120170942.htm",
+            "title": "AI\u53ef\u4ee5\u50cf\u5b83\u7684\u5236\u9020\u8005\u4e00\u6837\u201c\u6492\u8c0e\u548cBS\u201d\uff0c\u4f46\u4ecd\u7136\u4e0d\u50cf\u667a\u80fd"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/11/231120124246.htm",
+            "title": "\u4eba\u5de5\u667a\u80fd\u7cfb\u7edf\u81ea\u7ec4\u7ec7\u53d1\u5c55\u590d\u6742\u5927\u8111\u7684\u7279\u5f81"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/11/231120124148.htm",
+            "title": "\u4eba\u5de5\u667a\u80fd\uff1a\u7814\u7a76\u4eba\u5458\u5f00\u53d1\u4e86\u53e4\u4ee3\u6954\u5f62\u6587\u5b57\u7684\u81ea\u52a8\u6587\u672c\u8bc6\u522b"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/11/231102135100.htm",
+            "title": "\u4eba\u5de5\u667a\u80fd\u5e94\u8be5\u88ab\u66f4\u597d\u5730\u7406\u89e3\u548c\u7ba1\u7406-\u65b0\u7684\u7814\u7a76"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/10/231025163006.htm",
+            "title": "\u4eba\u5de5\u667a\u80fd\u53ea\u80fd\u5b66\u4e60\u5c31\u80fd\u638c\u63e1\u76f8\u5173\u6982\u5ff5\u5417"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/10/231009191615.htm",
+            "title": "\u4eba\u5de5\u667a\u80fd\u8bed\u8a00\u6a21\u578b\u53ef\u4ee5\u5e2e\u52a9\u8bca\u65ad"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/10/231004132419.htm",
+            "title": "\u89c2\u9e1f\u4eba\u548c\u4eba\u5de5\u667a\u80fd\u5c06\u9e1f\u7c7b\u4fdd\u62a4\u63a8\u5411\u4e0b\u4e00\u6b65"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/10/231004132416.htm",
+            "title": "\u672a\u6765\u7684\u4eba\u5de5\u667a\u80fd\u4f1a\u6e34\u671b\u4e00\u4e2a\u6700\u53d7\u6b22\u8fce\u7684\u4eba\u5417"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/10/231003173425.htm",
+            "title": "\u5373\u65f6\u8fdb\u5316\uff1a\u4eba\u5de5\u667a\u80fd\u4ece\u5934\u5f00\u59cb\u8bbe\u8ba1\u65b0\u673a\u5668\u4eba"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/09/230927003223.htm",
+            "title": "\u91ca\u653e\u4eba\u5de5\u667a\u80fd\u7684\u529b\u91cf\u8ffd\u8e2a\u52a8\u7269"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/09/230919154827.htm",
+            "title": "\u8bc4\u4f30\u57fa\u4e8e\u4eba\u5de5\u667a\u80fd\u7684\u795e\u7ecf\u5916\u79d1\u7684\u610f\u5916\u540e\u679c"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/09/230914114704.htm",
+            "title": "\u8a00\u8bed\u5e9f\u8bdd\u63ed\u793a\u4e86\u4eba\u5de5\u667a\u80fd\u7684\u5c40\u9650\u6027"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/09/230907130356.htm",
+            "title": "\u57fa\u4e8e\u4eba\u5de5\u667a\u80fd\u7684\u5e15\u91d1\u68ee\u6c0f\u75c5\u4e25\u91cd\u7a0b\u5ea6\u5728\u7ebf\u6d4b\u8bd5\u524d\u666f\u770b\u597d"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/08/230831142820.htm",
+            "title": "\u53cd\u7701\u7684\u4eba\u5de5\u667a\u80fd\u53d1\u73b0\u591a\u6837\u6027\u63d0\u9ad8"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/08/230831121804.htm",
+            "title": "\u4eba\u5de5\u667a\u80fd\u65b0\u6280\u672f\u8ba9\u673a\u5668\u4eba\u8bc6\u522b\u6280\u80fd\u5927\u653e\u5f02\u5f69"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/08/230828130347.htm",
+            "title": "\u5927\u8111\u4fe1\u53f7\u901a\u8fc7\u690d\u5165\u7269\u548c"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/08/230824150744.htm",
+            "title": "\u4eba\u5de5\u667a\u80fd\u5e2e\u52a9\u673a\u5668\u4eba\u7528\u4ed6\u4eec\u7684\u6574\u4e2a\u8eab\u4f53\u64cd\u7eb5\u7269\u4f53"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/08/230811115430.htm",
+            "title": "\u5e2e\u52a9\u4eba\u5de5\u667a\u80fd\u6280\u672f\u8bb2\u975e\u6d32\u8bdd\u7684\u8def\u7ebf\u56fe"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/08/230808110905.htm",
+            "title": "\u65b0\u6a21\u578b\u51cf\u5c11\u504f\u89c1\uff0c\u589e\u5f3a\u5bf9AI\u51b3\u7b56\u548c\u77e5\u8bc6\u7684\u4fe1\u4efb"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/08/230807122001.htm",
+            "title": "\u81ea\u76d1\u7763\u4eba\u5de5\u667a\u80fd\u5b66\u4e60\u7269\u7406\u4ee5\u91cd\u5efa\u5fae\u89c2\u56fe\u50cf"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/08/230801131652.htm",
+            "title": "\u70ed\u6210\u50cf\u521b\u65b0\u8ba9\u4eba\u5de5\u667a\u80fd\u50cf\u5e03\u7f57\u5fb7\u4e00\u6837\u770b\u7a7f\u6ca5\u9752\u9ed1\u6697"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/07/230720124956.htm",
+            "title": "\u672a\u6765\u7684\u4eba\u5de5\u667a\u80fd\u7b97\u6cd5\u6709\u53ef\u80fd\u50cf\u8fd9\u6837\u5b66\u4e60"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/07/230710113848.htm",
+            "title": "\u4eba\u5de5\u667a\u80fd\u62a4\u7406\u4f26\u7406\uff1a\u673a\u5668\u4eba\u7684\u751f\u5b58\u80fd\u529b\u548c\u4eba\u5de5\u667a\u80fd\u5728\u62a4\u7406\u4e2d\u7684\u5e94\u7528"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/06/230621105422.htm",
+            "title": "\u4eba\u5de5\u667a\u80fd\u4f7f\u7528\u8349\u56fe\u68c0\u6d4b\u56fe\u50cf\u4e2d\u7684\u5bf9\u8c61\u53ef\u4ee5\u63d0\u9ad8\u80bf\u7624\u68c0\u6d4b\u80fd\u529b\uff0c\u5e76\u641c\u7d22\u7a00\u6709\u9e1f\u7c7b"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/06/230614220636.htm",
+            "title": "\u4eba\u5de5\u667a\u80fd\u5e2e\u52a9\u5c55\u793a\u5927\u8111\u7684\u6db2\u4f53\u662f\u5982\u4f55"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/06/230614220605.htm",
+            "title": "\u6df7\u5408\u4eba\u5de5\u667a\u80fd\u652f\u6301\u7684\u8ba1\u7b97\u673a\u89c6\u89c9\u7ed3\u5408\u4e86\u7269\u7406\u548c\u5927"
+        },
+        {
+            "href": "https://www.sciencedaily.com/releases/2023/12/231218130031.htm",
+            "title": "\u4eba\u5de5\u667a\u80fd\u7684\u8bb0\u5fc6\u5f62\u6210\u673a\u5236\u4e0e\u4eba\u7c7b\u8bb0\u5fc6\u5f62\u6210\u673a\u5236\u60ca\u4eba\u5730\u76f8\u4f3c"
+        }
+    ],
+    "sky": [
+        {
+            "href": "https://news.sky.com/video/robot-that-fills-potholes-in-roads-using-ai-to-be-tested-in-hertfordshire-13045017",
+            "title": "\u673a\u5668\u4eba\u7528\u6765\u586b\u8865\u9053\u8def\u4e0a\u7684\u5751\u6d1e"
+        },
+        {
+            "href": "https://news.sky.com/story/microsoft-to-add-copilot-button-to-keyboards-to-summon-ai-companion-13041966",
+            "title": "\u5fae\u8f6f\u5c06\u5728PC\u952e\u76d8\u4e0a\u6dfb\u52a0AI\u6309\u94ae--\u4ee5\u4e0b\u662f\u5b83\u5c06\u4e3a\u60a8\u63d0\u4f9b\u7684\u5e2e\u52a9"
+        },
+        {
+            "href": "https://news.sky.com/story/ai-cannot-be-named-as-the-inventor-supreme-court-rules-in-patent-dispute-13034816",
+            "title": "\u4eba\u5de5\u667a\u80fd\u4e0d\u80fd\u88ab\u547d\u540d\u4e3a\u53d1\u660e\u5bb6\uff0c\u82f1\u56fd\u6cd5\u9662\u88c1\u5b9a\u4e13\u5229"
+        },
+        {
+            "href": "https://news.sky.com/story/2024-is-worlds-biggest-election-year-ever-and-ai-experts-say-were-not-prepared-13030960",
+            "title": "\u4e16\u754c\u5373\u5c06\u8fce\u6765\u6709\u53f2\u4ee5\u6765\u89c4\u6a21\u6700\u5927\u7684\u9009\u4e3e\u5e74--\u4eba\u5de5\u667a\u80fd\u4e13\u5bb6\u6b63\u5728\u53d1\u51fa\u58f0\u97f3"
+        },
+        {
+            "href": "https://news.sky.com/story/boots-expected-to-launch-ai-personal-shopper-13033373",
+            "title": "Boots\u6709\u671b\u63a8\u51faAI Personal"
+        },
+        {
+            "href": "https://news.sky.com/story/i-let-ai-plan-christmas-heres-what-it-came-up-with-13014195",
+            "title": "\u6211\u8ba9\u4eba\u5de5\u667a\u80fd\u8ba1\u5212\u5723\u8bde\u8282--\u4e8b\u60c5\u662f\u8fd9\u6837\u7684"
+        },
+        {
+            "href": "https://news.sky.com/story/pope-francis-calls-for-international-regulation-of-artificial-intelligence-13030787",
+            "title": "\u5c3d\u7ba1\u8fd9\u4f7f\u4ed6\u6210\u4e3a\u4e00\u4e2a\u65f6\u5c1a\u5076\u50cf\uff0c\u6559\u7687\u5e0c\u671b\u76d1\u7ba1\uff0c"
+        },
+        {
+            "href": "https://news.sky.com/video/vladimir-putin-takes-questions-from-ai-version-of-himself-13030240",
+            "title": "\u666e\u4eac\u63a5\u53d7AI\u63d0\u95ee"
+        },
+        {
+            "href": "https://news.sky.com/story/fake-ai-images-keep-going-viral-here-are-eight-that-have-caught-people-out-13028547",
+            "title": "\u865a\u5047\u7684\u4eba\u5de5\u667a\u80fd\u56fe\u50cf\u7ee7\u7eed\u5728\u7f51\u4e0a\u4f20\u64ad--\u8fd9\u91cc\u6709\u516b\u5f20\u6293\u83b7\u4e86\u4eba\u4eec\u7684\u7167\u7247"
+        },
+        {
+            "href": "https://news.sky.com/video/artificial-intelligence-warnings-misuse-of-copyrighted-music-could-exploit-artists-13027111",
+            "title": "AI\u80fd\u5229\u7528"
+        },
+        {
+            "href": "https://news.sky.com/story/misuse-of-copyrighted-music-by-ai-companies-could-exploit-artists-13027073",
+            "title": "\u4eba\u5de5\u667a\u80fd\u516c\u53f8\u6ee5\u7528\u53d7\u7248\u6743\u4fdd\u62a4\u7684\u97f3\u4e50\u53ef\u80fd\u4f1a\u88ab\u5229\u7528"
+        },
+        {
+            "href": "https://news.sky.com/story/eu-reaches-deal-on-how-to-regulate-artificial-intelligence-13026107",
+            "title": "\u6b27\u76df\u5c31\u5982\u4f55\u76d1\u7ba1\u8fbe\u6210\u534f\u8bae"
+        },
+        {
+            "href": "https://news.sky.com/video/how-can-you-make-music-with-ai-13025732",
+            "title": "\u4f60\u600e\u4e48\u80fd\u7528"
+        },
+        {
+            "href": "https://news.sky.com/story/google-touts-new-ai-model-that-beats-gpt-in-almost-all-tests-but-uk-yet-to-approve-release-13025048",
+            "title": "\u8c37\u6b4c\u5439\u6367\u65b0\u7684\u4eba\u5de5\u667a\u80fd\u6a21\u5f0f\uff0c\u51e0\u4e4e\u5728\u6240\u6709\u65b9\u9762\u90fd\u51fb\u8d25\u4e86GPT"
+        },
+        {
+            "href": "https://news.sky.com/story/chatgpt-turns-one-the-first-year-of-the-chatbot-that-changed-the-world-13014185",
+            "title": "\u4eba\u5de5\u667a\u80fd\u804a\u5929\u673a\u5668\u4eba\u7684\u7b2c\u4e00\u5e74\u6539\u53d8\u4e86"
+        },
+        {
+            "href": "https://news.sky.com/story/amazon-to-launch-ai-business-chatbot-named-q-13018594",
+            "title": "\u4e9a\u9a6c\u900a\u5c06\u63a8\u51fa\u4eba\u5de5\u667a\u80fd\u5546\u4e1a\u804a\u5929\u673a\u5668\u4eba"
+        },
+        {
+            "href": "https://news.sky.com/story/schools-urged-to-teach-children-how-to-use-ai-from-age-of-11-13018012",
+            "title": "\u5b66\u6821\u6566\u4fc3\u4ece#\u5c81\u5f00\u59cb\u6559\u5b69\u5b50\u4eec\u5982\u4f55\u4f7f\u7528\u4eba\u5de5\u667a\u80fd"
+        },
+        {
+            "href": "https://news.sky.com/story/baz-luhrmann-film-industry-way-behind-on-governing-ai-13016154",
+            "title": "\u5df4\u5179\u00b7\u9c81\u5c14\u66fc\uff1a\u7535\u5f71\u4e1a\u5728\u6cbb\u7406\u65b9\u9762\u843d\u540e\u4e86\u5f88\u591a"
+        },
+        {
+            "href": "https://news.sky.com/story/how-the-chaos-at-chatgpt-maker-openai-has-unfolded-as-ousted-ceo-sam-altman-returns-and-why-it-matters-13012732",
+            "title": "OpenAI\u7684\u6df7\u4e71\u662f\u5982\u4f55\u5c55\u5f00\u7684--\u4ee5\u53ca\u4e3a\u4ec0\u4e48"
+        },
+        {
+            "href": "https://news.sky.com/story/who-is-sam-altman-the-openai-boss-and-chatgpt-guru-who-became-one-of-ais-biggest-players-12898698",
+            "title": "\u4ece\u5b66\u6821\u7684\u6280\u672f\u5929\u624d\u5230AI\u9769\u547d\u7684\u4ee3\u8a00\u4eba-\u8c01\u662fOpenAI\u8001\u677f\u5c71\u59c6"
+        },
+        {
+            "href": "https://news.sky.com/story/emmett-shear-the-ai-doomer-picked-to-run-openai-now-set-to-leave-after-just-three-days-13012850",
+            "title": "\u88ab\u9009\u4e2d\u8fd0\u884cOpenAI-\u73b0\u5728\u5c06\u5728\u4ec5\u4e09\u4e2a\u5c0f\u65f6\u540e\u79bb\u5f00\u7684\u4eba\u5de5\u667a\u80fd\u201c\u672b\u65e5\u201d"
+        },
+        {
+            "href": "https://news.sky.com/story/sam-altman-ousted-openai-boss-committed-to-ensuring-firm-still-thrives-as-majority-of-employees-threaten-to-quit-13012282",
+            "title": "\u88ab\u8d76\u4e0b\u53f0\u7684OpenAI\u8001\u677f\u627f\u8bfa\u786e\u4fdd\u516c\u53f8\u4ecd\u7136\u84ec\u52c3\u53d1\u5c55\uff0c\u56e0\u4e3a\u5927\u591a\u6570\u5458\u5de5\u5a01\u80c1\u8bf4"
+        },
+        {
+            "href": "https://news.sky.com/story/sam-altman-tipped-to-return-as-openai-boss-just-days-after-sacking-13011577",
+            "title": "\u524dOpenAI\u8001\u677f\u900f\u9732\u51e0\u5929\u540e\u5c06\u56de\u5f52"
+        },
+        {
+            "href": "https://news.sky.com/story/greg-brockman-quits-as-president-of-openai-after-departure-of-ceo-sam-altman-13010768",
+            "title": "OpenAI\u603b\u88c1\u5728Sam Altman\u79bb\u804c\u540e\u79bb\u804c"
+        },
+        {
+            "href": "https://news.sky.com/story/ai-poses-growing-threat-to-next-general-election-warns-uk-cyber-security-agency-13007659",
+            "title": "\u4eba\u5de5\u667a\u80fd\u5bf9\u4e0b\u4e00\u5c4a\u5927\u9009\u6784\u6210\u8d8a\u6765\u8d8a\u5927\u7684\u5a01\u80c1\uff0c\u8b66\u544a\u82f1\u56fd\u7f51\u7edc\u5b89\u5168"
+        },
+        {
+            "href": "https://news.sky.com/video/racial-bias-in-ai-man-wrongly-identified-by-facial-recognition-technology-13004927",
+            "title": "\u201c\u8d5b\u8f66\u624b\u201d\u4eba\u5de5\u667a\u80fd\u901a\u5411\u9519\u8bef"
+        },
+        {
+            "href": "https://news.sky.com/story/racial-bias-in-ai-officers-questioned-father-in-watch-theft-probe-after-he-was-wrongly-identified-by-facial-recognition-technology-13004065",
+            "title": "\u4e00\u540d\u9ed1\u4eba\u5728\u88ab\u57fa\u4e8e\u4eba\u5de5\u667a\u80fd\u7684\u9519\u8bef\u8bc6\u522b\u540e\u88ab\u8b66\u65b9\u62d8\u7559\u4e8630\u4e2a\u5c0f\u65f6"
+        },
+        {
+            "href": "https://news.sky.com/video/ai-a-future-where-no-job-is-needed-elon-musk-speaks-to-rishi-sunak-12999260",
+            "title": "\u4eba\u5de5\u667a\u80fd\u662f\u5426\u610f\u5473\u7740\u201c\u4e0d\u9700\u8981\u5de5\u4f5c\u201d\uff1f"
+        },
+        {
+            "href": "https://news.sky.com/video/elon-musk-ai-will-mean-no-job-is-needed-12999211",
+            "title": "\u4eba\u5de5\u667a\u80fd\u7684\u610f\u601d\u662f\u2018\u6ca1\u6709\u5de5\u4f5c\u662f"
+        },
+        {
+            "href": "https://news.sky.com/story/succession-star-brian-cox-on-the-use-of-ai-to-replicate-actors-its-a-human-rights-issue-12999168",
+            "title": "\u8fd9\u662f\u4e00\u4e2a\u4eba\u6743\u95ee\u9898\uff1a\u63a5\u73ed\u4eba\u660e\u661f\u5e03\u83b1\u6069\u00b7\u8003\u514b\u65af\u62a8\u51fb"
+        }
+    ],
+    "economic times": [
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/openai-ceo-sam-altman-us-house-speaker-mike-johnson-discuss-ai-risks/articleshow/106747607.cms",
+            "title": "OpenAI\u9996\u5e2d\u6267\u884c\u5b98Sam Altman\uff0c\u7f8e\u56fd\u4f17\u8bae\u9662\u8bae\u957fMike Johnson\u8ba8\u8bbaAI"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/us-lawmakers-seek-to-regulate-ai-vendors-to-the-government-unveil-legislation/articleshow/106715828.cms",
+            "title": "\u7f8e\u56fd\u7acb\u6cd5\u8005\u5bfb\u6c42\u89c4\u8303\u5411\u653f\u5e9c\u63d0\u4f9b\u4eba\u5de5\u667a\u80fd\u4f9b\u5e94\u5546\uff0c\u516c\u5e03"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/openai-ceo-sam-altman-to-meet-us-house-speaker-mike-johnson-report/articleshow/106714738.cms",
+            "title": "OpenAI\u9996\u5e2d\u6267\u884c\u5b98\u8428\u59c6\u00b7\u5965\u7279\u66fc\u5c06\u4f1a\u89c1\u7f8e\u56fd\u4f17\u8bae\u9662\u8bae\u957f\u8fc8\u514b\u00b7\u7ea6\u7ff0\u900a\uff1a"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/inmobi-to-lay-off-125-employees-in-operations-rejig/articleshow/106706950.cms",
+            "title": "InMobi\u91c7\u7528\u4eba\u5de5\u667a\u80fd\u4f18\u5148\u7684\u65b9\u5f0f\uff0c\u88c1\u5458"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/openai-in-content-licensing-talks-with-cnn-fox-and-time-report/articleshow/106712275.cms",
+            "title": "OpenAI\u4e0eCNN\u3001Fox\u548cTime\u8fdb\u884c\u5185\u5bb9\u8bb8\u53ef\u8c08\u5224\uff1a"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/ai-advances-risk-facilitating-cyber-crime-top-us-officials-say/articleshow/106688287.cms",
+            "title": "\u4eba\u5de5\u667a\u80fd\u8fdb\u6b65\u4e3a\u7f51\u7edc\u72af\u7f6a\u63d0\u4f9b\u4fbf\u5229\u7684\u98ce\u9669\uff1a\u7f8e\u56fd\u6700\u5927"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/eye-on-genai-indian-it-companies-seek-opportunities-to-build-and-expand/articleshow/106674807.cms",
+            "title": "\u5173\u6ce8GenAI\uff0c\u5370\u5ea6IT\u516c\u53f8\u5bfb\u627e\u673a\u4f1a\u5efa\u8bbe\u548c"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/elon-musks-x-lays-out-future-plans-peer-to-peer-payments-ai-and-content-creators-in-focus/articleshow/106685897.cms",
+            "title": "\u57c3\u9686\u00b7\u9a6c\u65af\u514b\u7684X\u5236\u5b9a\u4e862024\u5e74\u7684\u8ba1\u5212\uff1aP2P\u652f\u4ed8\u3001\u4eba\u5de5\u667a\u80fd\u548c\u5185\u5bb9\u521b\u4f5c\u8005"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/walmart-experiments-with-ai-to-enhance-customers-shopping-experiences/articleshow/106682030.cms",
+            "title": "\u6c83\u5c14\u739b\u5c1d\u8bd5\u4eba\u5de5\u667a\u80fd\u589e\u5f3a\u987e\u5ba2\u8d2d\u7269"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/google-faces-1-67-billion-damages-demand-at-ai-related-patent-trial/articleshow/106676149.cms",
+            "title": "\u8c37\u6b4c\u5728AI\u76f8\u5173\u4e13\u5229\u4e0a\u9762\u4e3416.7\u4ebf\u7f8e\u5143\u7684\u8d54\u507f\u8981\u6c42"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/google-faces-multibillion-dollar-us-patent-trial-over-ai-technology/articleshow/106668439.cms",
+            "title": "\u8c37\u6b4c\u56e0\u4eba\u5de5\u667a\u80fd\u9762\u4e34\u6570\u5341\u4ebf\u7f8e\u5143\u7684\u7f8e\u56fd\u4e13\u5229\u5ba1\u5224"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/zendesk-acquires-ai-led-quality-management-platform-klaus/articleshow/106665742.cms",
+            "title": "Zendesk\u6536\u8d2dAI\u4e3b\u5bfc\u7684\u8d28\u91cf\u7ba1\u7406\u5e73\u53f0"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/mayo-clinic-pairs-with-cerebras-systems-to-help-develop-ai-for-health-care/articleshow/106653494.cms",
+            "title": "\u6885\u5965\u8bca\u6240\u4e0eCerebras\u7cfb\u7edf\u516c\u53f8\u5408\u4f5c\u5e2e\u52a9\u5f00\u53d1\u7528\u4e8e\u5065\u5eb7\u7684\u4eba\u5de5\u667a\u80fd"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/blue-collar-jobs-may-weather-raging-ai-storm-better-experts/articleshow/106645672.cms",
+            "title": "\u84dd\u9886\u5de5\u4f5c\u53ef\u80fd\u66f4\u597d\u5730\u7ecf\u53d7\u4f4f\u731b\u70c8\u7684\u4eba\u5de5\u667a\u80fd\u98ce\u66b4\uff1a"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/ai-will-become-companion-to-creative-process-not-its-master-anand-mahindra/articleshow/106645369.cms",
+            "title": "\u4eba\u5de5\u667a\u80fd\u5c06\u6210\u4e3a\u521b\u4f5c\u8fc7\u7a0b\u7684\u4f34\u4fa3\uff0c\u800c\u4e0d\u662f\u5b83\u7684\u4e3b\u4eba\uff1a\u963f\u5357\u5fb7"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/microsoft-launches-initiative-to-train-100000-indian-developers-on-ai/articleshow/106637049.cms",
+            "title": "\u5fae\u8f6f\u542f\u52a8\u8ba1\u5212\u57f9\u8bad10\u4e07\u540d\u5370\u5ea6\u5f00\u53d1\u4eba\u5458"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/nvidia-to-launch-china-focused-ai-chip-in-second-quarter-of-2024/articleshow/106630930.cms",
+            "title": "\u82f1\u4f1f\u8fbe\u5c06\u4e8e#\u5e74\u7b2c\u4e8c\u5b63\u5ea6\u63a8\u51fa\u4e13\u6ce8\u4e8e\u4e2d\u56fd\u7684\u4eba\u5de5\u667a\u80fd\u82af\u7247"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/dark-corners-of-the-web-offer-a-glimpse-at-ais-nefarious-future/articleshow/106624769.cms",
+            "title": "\u7f51\u7edc\u7684\u9ed1\u6697\u89d2\u843d\u8ba9\u6211\u4eec\u5f97\u4ee5\u4e00\u7aa5\u4eba\u5de5\u667a\u80fd\u7684\u90aa\u6076"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/microsoft-openai-hit-with-new-lawsuit-by-authors-over-ai-training/articleshow/106588576.cms",
+            "title": "\u5fae\u8f6f\u548cOpenAI\u56e0\u4f5c\u8005\u5bf9\u4eba\u5de5\u667a\u80fd\u63d0\u8d77\u65b0\u8bc9\u8bbc\u800c\u53d7\u5230\u6253\u51fb"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/openai-in-talks-with-dozens-of-publishers-to-licence-content/articleshow/106562091.cms",
+            "title": "OpenAI\u4e0e\u6570\u5341\u5bb6\u51fa\u7248\u5546\u5c31\u8bb8\u53ef\u4e8b\u5b9c\u8fdb\u884c\u8c08\u5224"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/ces-trade-show-ai-to-dominate-this-year-even-without-sam-altmans-presence/articleshow/106558416.cms",
+            "title": "CES\u8d38\u6613\u5c55\uff1a\u5373\u4f7f\u6ca1\u6709Sam Altman\u7684\uff0c\u4eba\u5de5\u667a\u80fd\u4e5f\u5c06\u5728\u4eca\u5e74\u5360\u636e\u4e3b\u5bfc\u5730\u4f4d"
+        },
+        {
+            "href": "https://economictimes.indiatimes.com/tech/technology/70-of-indian-startups-bet-big-on-ai-to-fuel-growth-report/articleshow/106551884.cms",
+            "title": "70%\u7684\u5370\u5ea6\u521d\u521b\u4f01\u4e1a\u5728\u4eba\u5de5\u667a\u80fd\u4e0a\u4e0b\u4e86\u5927\u8d4c\u6ce8\uff0c\u4ee5\u63a8\u52a8\u589e\u957f\uff1a"
+        }
+    ],
+    "globalnews": [
+        {
+            "href": "#content",
+            "title": "\u8df3\u5230Main"
+        },
+        {
+            "href": "https://globalnews.ca/news/10215598/ai-skills-canada-employment/",
+            "title": "\u52a0\u62ff\u5927\u516c\u53f8\u5236\u5b9a2024\u5e74\u62db\u8058\u8ba1\u5212\uff0c\u4eba\u5de5\u667a\u80fd\u6280\u80fd\u6210\u4e3a\u4f18\u5148\u4e8b\u9879  \u5f53\u52a0\u62ff\u5927\u516c\u53f8\u4eca\u5e74\u5f00\u59cb\u62db\u8058\u65f6\uff0c\u5e94\u8058\u8005\u5c06\u9700\u8981\u5728\u4e00\u4e2a\u5173\u952e\u9886\u57df\u8868\u73b0\u51fa\u6280\u80fd\uff1a\u4eba\u5de5\u667a\u80fd\u3002 \u52a0\u62ff\u5927 \u4e00\u6708"
+        },
+        {
+            "href": "https://globalnews.ca/news/10191691/new-york-times-sues-openai-microsoft-chatbots/",
+            "title": "\u300a\u7ebd\u7ea6\u65f6\u62a5\u300b\u8d77\u8bc9\u5fae\u8f6fOpenAI\u5229\u7528\u5176\u6545\u4e8b\u8bad\u7ec3\u804a\u5929\u673a\u5668\u4eba  \u8be5\u62a5\u6307\u63a7\u5fae\u8f6f\u5728\u6ca1\u6709\u4ed8\u8d39\u7684\u60c5\u51b5\u4e0b\uff0c\u5229\u7528\u300a\u7ebd\u7ea6\u65f6\u62a5\u300b\u7684\u6587\u7ae0\u8bad\u7ec3\u5176\u4eba\u5de5\u667a\u80fd\u673a\u5668\u4eba\u3002\u8fd9\u8d77\u8bc9\u8bbc\u8981\u6c42\u6570\u5341\u4ebf\u7f8e\u5143\u7684\u6cd5\u5b9a\u548c"
+        },
+        {
+            "href": "https://globalnews.ca/news/10190623/alberta-cattle-rancher-ai-technology/",
+            "title": "\u827e\u4f2f\u5854\u7701\u4e00\u4f4d\u7267\u573a\u4e3b\u8868\u793a\uff0c\u4eba\u5de5\u667a\u80fd\u6280\u672f\u6709\u52a9\u4e8e\u8282\u7701\u65f6\u95f4\u548c\u91d1\u94b1  \u963f\u4ec0\u5229\u00b7\u4f69\u96f7\u4f69\u5c14\u91d1\u8bf4\uff0c\u5979\u5728\u4e00\u4e2a\u57ce\u5e02\u5973\u5b69\u51fa\u751f\u548c\u957f\u5927\uff0c\u4ece\u672a\u60f3\u8fc7\u5979\u4f1a\u5728\u4eba\u5de5\u667a\u80fd\u7684\u5e2e\u52a9\u4e0b\u51fa\u552e\u81ea\u5df1\u5728\u827e\u4f2f\u5854\u7701\u519c\u573a\u9972\u517b\u7684\u725b\u7684\u65b0\u9c9c\u725b\u8089\u3002"
+        },
+        {
+            "href": "https://globalnews.ca/news/10181554/ai-u-k-supreme-court-ruling/",
+            "title": "\u82f1\u56fd\u6700\u9ad8\u6cd5\u9662\u88c1\u5b9a\uff0c\u4eba\u5de5\u667a\u80fd\u4e0d\u80fd\u6210\u4e3a\u4e13\u5229\u53d1\u660e\u8005  \u5468\u4e09\uff0c\u4e00\u540d\u7f8e\u56fd\u8ba1\u7b97\u673a\u79d1\u5b66\u5bb6\u5728\u82f1\u56fd\u4e00\u8d77\u91cc\u7a0b\u7891\u5f0f\u7684\u6848\u4ef6\u4e2d\u8f93\u6389\u4e86\u4ed6\u7684\u4eba\u5de5\u667a\u80fd\u7cfb\u7edf\u521b\u9020\u7684\u53d1\u660e\u4e13\u5229\u6ce8\u518c\u7533\u8bf7\u3002 \u4e16\u754c 12\u670820\u65e5\uff0c"
+        },
+        {
+            "href": "https://globalnews.ca/news/10179640/video-amazon-acheson-warehouse-artificial-intelligence/",
+            "title": "\u5e55\u540e\uff1a\u4eba\u5de5\u667a\u80fd\u5982\u4f55\u5728\u4e9a\u9a6c\u900a\u4ed3\u5e93\u4e2d\u4f7f\u7528  \u4e9a\u9a6c\u900a\u5c55\u793a\u4e86\u5176\u4f4d\u4e8e\u57c3\u5fb7\u8499\u987f\u90ca\u5916\u827e\u5947\u900a\u7684YEG2\u6267\u884c\u4e2d\u5fc3\u662f\u5982\u4f55\u4f7f\u7528\u4eba\u5de5\u667a\u80fd\u7684\u5e55\u540e\u6545\u4e8b\u3002 \u6d88\u8d39\u8005 12\u670819\u65e5\uff0c"
+        },
+        {
+            "href": "https://globalnews.ca/news/10159079/european-union-ai-rules-deal-reached/",
+            "title": "\u6b27\u76df\u5c31\u4e16\u754c\u4e0a\u9996\u4e2a\u5168\u9762\u7684\u4eba\u5de5\u667a\u80fd\u89c4\u5219\u8fbe\u6210\u534f\u8bae  \u8fd9\u4e00\u7ed3\u679c\u662f\u5728\u672c\u5468\u9a6c\u62c9\u677e\u5f0f\u7684\u95ed\u95e8\u4f1a\u8c08\u4e4b\u540e\u5f97\u51fa\u7684\uff0c\u5176\u4e2d\u4e00\u6b21\u4f1a\u8c08\u6301\u7eed\u4e8622\u4e2a\u5c0f\u65f6\uff0c\u7b2c\u4e8c\u8f6e\u4f1a\u8c08\u4e8e\u5468\u4e94\u4e0a\u5348\u5f00\u59cb\u3002 \u4e16\u754c 12\u67088\u65e5\uff0c"
+        },
+        {
+            "href": "https://globalnews.ca/news/10153256/queens-university-students-help-cutting-edge-ai-project/",
+            "title": "\u7687\u540e\u5927\u5b66\u5b66\u751f\u5e2e\u52a9\u5c16\u7aef\u4eba\u5de5\u667a\u80fd\u9879\u76ee  \u4e00\u4e2a\u7531\u5973\u738b\u5927\u5b66\u5b66\u751f\u7ec4\u6210\u7684\u7ec4\u7ec7\u6b63\u5728\u53c2\u4e0e\u4e00\u4e2a\u65b0\u7684\u3001\u521b\u65b0\u7684\u4eba\u5de5\u667a\u80fd\u9879\u76ee\u3002 \u9ad8\u79d1\u6280 12\u67086\u65e5\uff0c"
+        },
+        {
+            "href": "https://globalnews.ca/news/10151522/cse-report-artificial-intelligence-election-threats/",
+            "title": "CSE\u8b66\u544a\u79f0\uff0c\u751f\u6210\u6027\u4eba\u5de5\u667a\u80fd\u3001\u6df1\u5ea6\u5047\u5192\u5c06\u5bf9\u7ade\u9009\u6d3b\u52a8\u9020\u6210\u6c61\u67d3  \u52a0\u62ff\u5927\u7f51\u7edc\u5b89\u5168\u76d1\u7763\u673a\u6784\u8b66\u544a\u79f0\uff0c\u4fc4\u7f57\u65af\u548c\u4e2d\u56fd\u5c06\u7ee7\u7eed\u5e72\u9884\u9009\u4e3e\u3002\u5b83\u8fd8\u8b66\u544a\u79f0\uff0c\u4eba\u5de5\u667a\u80fd\u5c06\u88ab\u7528\u6765\u7834\u574f\u6c11\u4e3b\u3002"
+        }
+    ],
+    "visual studio magazine": [
+        {
+            "href": "https://visualstudiomagazine.com/pages/topic-pages/ai-and-machine-learning.aspx",
+            "title": "\u4eba\u5de5\u667a\u80fd/\u673a\u5668"
+        },
+        {
+            "href": "https://visualstudiomagazine.com/Articles/2024/01/10/copilot-chat-explodes.aspx",
+            "title": "\u5728VS Code\u7684\u6570\u767e\u4e2a\u4eba\u5de5\u667a\u80fd\u5de5\u5177\u4e2d\uff0cGitHub Copilot Chat"
+        },
+        {
+            "href": "https://visualstudiomagazine.com/Articles/2023/12/19/semantic-kernel-v1.aspx",
+            "title": "\u5fae\u8f6f\u7684\u8bed\u4e49\u5185\u6838SDK\u9644\u5e26\u4e86AI\u4ee3\u7406\u3001\u63d2\u4ef6\u3001\u89c4\u5212\u5668\u548c"
+        },
+        {
+            "href": "https://visualstudiomagazine.com/Articles/2023/12/12/sk-mixologist.aspx",
+            "title": "\u4f7f\u7528\u8bed\u4e49\u5236\u4f5c\u4eba\u5de5\u667a\u80fd\u6df7\u5408\u5b66\u5bb6"
+        },
+        {
+            "href": "https://visualstudiomagazine.com/Articles/2023/12/11/vs-code-nov23.aspx",
+            "title": "Rust\u89e3\u91ca\u8bf4\uff0cVS Code\u7684\u526f\u9a7e\u9a76AI Pair\u7a0b\u5e8f\u5458\u6539\u5584\u4e86\u804a\u5929\u7528\u6237\u754c\u9762"
+        },
+        {
+            "href": "https://visualstudiomagazine.com/Articles/2023/12/08/semantic-kernel-rc1.aspx",
+            "title": "\u5fae\u8f6f\u7684\u201c\u8bed\u4e49\u5185\u6838\u201dAI SDK\u53d1\u5e03"
+        },
+        {
+            "href": "https://visualstudiomagazine.com/Articles/2023/12/04/azure-java-ai.aspx",
+            "title": "Java on Azure\u56e2\u961f\u4e13\u6ce8\u4e8e\u4e3aAI\u63d0\u4f9bOpenAI\u804a\u5929\u5e73\u53f0"
+        },
+        {
+            "href": "https://visualstudiomagazine.com/Articles/2023/11/29/ai-git-commits.aspx",
+            "title": "Copilot AI\u5728Visual Studio\u4e2d\u63a5\u7ba1Git\u63d0\u4ea4"
+        },
+        {
+            "href": "https://visualstudiomagazine.com/Articles/2023/11/28/ml-net-3-0.aspx",
+            "title": "ML.NET 3.0\u4fc3\u8fdb\u4e86\u57fa\u4e8e.NET\u7684\u4eba\u5de5\u667a\u80fd\u7684\u6df1\u5ea6\u5b66\u4e60\u548c\u6570\u636e\u5904\u7406"
+        },
+        {
+            "href": "https://visualstudiomagazine.com/Articles/2023/11/03/semantic-kernel-update.aspx",
+            "title": "\u5fae\u8f6f\u5bf9\u8bed\u4e49\u5185\u6838AI SDK\u8fdb\u884c\u4e86\u6539\u9020"
+        },
+        {
+            "href": "https://visualstudiomagazine.com/Articles/2023/11/02/vs-code-1-84.aspx",
+            "title": "VS Code\u9884\u89c8CoPilot\u804a\u5929\u7684AI\u4e3b\u9898\u4e13\u5bb6"
+        },
+        {
+            "href": "https://visualstudiomagazine.com/Articles/2023/10/30/codeium-changelist.aspx",
+            "title": "\u5f00\u6e90Codeium\u6539\u8fdb\u4e86VS\u4ee3\u7801\u4e2d\u7684AI\u804a\u5929"
+        },
+        {
+            "href": "https://visualstudiomagazine.com/Articles/2023/10/25/azure-openai-java.aspx",
+            "title": "Azure Java Jockey\u83b7\u5f97OpenAI"
+        },
+        {
+            "href": "https://visualstudiomagazine.com/Articles/2023/10/23/ai-content-safety.aspx",
+            "title": "\u201cAzure AI Content Security\u201d\u670d\u52a1\u9762\u5411\u5728\u7ebf\u5f00\u53d1\u8005"
+        },
+        {
+            "href": "https://visualstudiomagazine.com/Articles/2023/10/13/semantic-kernel-beta.aspx",
+            "title": "\u4ece\u8bed\u4e49\u5185\u6838AI\u4e2d\u5254\u9664\u7279\u5b9a\u4e8eOpenAI\u7684\u4ee3\u7801"
+        },
+        {
+            "href": "https://visualstudiomagazine.com/Articles/2023/10/09/vs-code-1-83.aspx",
+            "title": "VS\u4ee3\u7801\u66f4\u65b0\u6539\u8fdb\u4e86GitHub Copilot\u7684\u6d4b\u8bd5"
+        },
+        {
+            "href": "https://visualstudiomagazine.com/articles/2024/01/10/copilot-chat-explodes.aspx",
+            "title": "\u5728VS Code\u7684\u6570\u767e\u4e2a\u4eba\u5de5\u667a\u80fd\u5de5\u5177\u4e2d\uff0cGitHub Copilot Chat"
+        },
+        {
+            "href": "https://vslive.com/events/training-seminars/2024/jan25/home.aspx",
+            "title": "VSLive\uff01\u4e3a\u671f\u4e24\u5929\u7684\u5b9e\u8df5\u57f9\u8bad\u7814\u8ba8\u4f1a\uff1aAzure OpenAI\u7814\u8ba8\u4f1a\uff1a \u5168\u9762\u7684\u5b9e\u8df5\u64cd\u4f5c"
+        },
+        {
+            "href": "https://pureai.com/home.aspx",
+            "title": "\u7eaf\u6b63"
+        }
+    ],
+    "Info World": [
+        {
+            "href": "https://www.infoworld.com/category/generative-ai/",
+            "title": "\u751f\u6210\u6027"
+        },
+        {
+            "href": "https://www.infoworld.com/article/3712282/many-software-developers-dont-trust-ai-report.html",
+            "title": "\u8bb8\u591a\u8f6f\u4ef6\u5f00\u53d1\u4eba\u5458\u4e0d\u4fe1\u4efb\u4eba\u5de5\u667a\u80fd-"
+        },
+        {
+            "href": "https://www.infoworld.com/article/3712202/openai-launches-gpt-store-to-expand-user-base-and-add-revenue-streams.html",
+            "title": "OpenAI\u63a8\u51faGPT Store\u4ee5\u6269\u5927\u7528\u6237\u7fa4\u5e76\u589e\u52a0\u6536\u5165\u6765\u6e90"
+        },
+        {
+            "href": "https://www.infoworld.com/article/3712128/openai-launches-gpt-store.html",
+            "title": "OpenAI\u63a8\u51faGPT"
+        },
+        {
+            "href": "https://www.infoworld.com/article/3712001/getting-through-the-awkward-toddler-phase-of-generative-ai.html",
+            "title": "\u5ea6\u8fc7\u751f\u6210\u6027\u4eba\u5de5\u667a\u80fd\u7684\u5c34\u5c2c\u8e52\u8dda\u5b66\u6b65\u9636\u6bb5"
+        },
+        {
+            "href": "https://www.infoworld.com/blog/generative-ai-insights/",
+            "title": "\u4ea7\u751f\u5f0f\u4eba\u5de5\u667a\u80fd"
+        },
+        {
+            "href": "https://www.infoworld.com/article/3711981/how-do-we-make-money-with-generative-ai.html",
+            "title": "\u6211\u4eec\u5982\u4f55\u901a\u8fc7\u751f\u6210\u5f0fAI\u8d5a\u94b1\uff1f"
+        },
+        {
+            "href": "https://www.infoworld.com/article/3711920/4-key-devsecops-skills-for-the-generative-ai-era.html",
+            "title": "\u4ea7\u751f\u5f0f\u4eba\u5de5\u667a\u80fd\u76844\u4e2a\u5173\u952eDevsecop\u6280\u80fd"
+        },
+        {
+            "href": "https://www.infoworld.com/article/3711412/using-generative-ai-to-overhaul-data-integration-start-here.html",
+            "title": "\u4f7f\u7528\u4ea7\u751f\u5f0f\u4eba\u5de5\u667a\u80fd\u5f7b\u5e95\u6539\u53d8\u6570\u636e\u96c6\u6210\uff1f\u5f00\u59cb"
+        },
+        {
+            "href": "https://www.infoworld.com/article/3711860/the-strange-marvelous-year-of-generative-ai.html",
+            "title": "\u5947\u7279\u3001\u5947\u5999\u7684\u4e00\u5e74"
+        },
+        {
+            "href": "https://www.infoworld.com/article/3711660/model-quantization-and-the-dawn-of-edge-ai.html",
+            "title": "\u6a21\u578b\u91cf\u5b50\u5316\u4e0e\u8fb9\u7f18\u7684\u66d9\u5149"
+        },
+        {
+            "href": "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.html",
+            "title": "Windows AI\u4e00\u77a5"
+        },
+        {
+            "href": "https://www.infoworld.com/article/3711745/navigating-cloud-concentration-and-ai-lock-in.html",
+            "title": "\u5bfc\u822a\u4e91\u96c6\u4e2d\u5ea6\u548c\u4eba\u5de5\u667a\u80fd"
+        },
+        {
+            "href": "https://www.infoworld.com/article/3711705/build-or-buy-cloud-based-generative-ai.html",
+            "title": "\u6784\u5efa\u6216\u8d2d\u4e70\u57fa\u4e8e\u4e91\u7684\u751f\u6210"
+        },
+        {
+            "href": "https://www.infoworld.com/article/3711543/jetbrains-ships-ai-assistant-for-jetbrains-ides.html",
+            "title": "JetBrains\u4e3aJetBrains\u63a8\u51faAI Assistant"
+        },
+        {
+            "href": "https://www.infoworld.com/article/3711414/generative-ai-is-off-to-a-rough-start.html",
+            "title": "\u4ea7\u751f\u5f0f\u4eba\u5de5\u667a\u80fd\u6b63\u5728\u8d70\u5411\u8270\u96be"
+        },
+        {
+            "href": "https://www.infoworld.com/article/3711284/meta-releases-open-source-tools-for-ai-safety.html",
+            "title": "Meta\u53d1\u5e03\u4eba\u5de5\u667a\u80fd\u5f00\u6e90\u5de5\u5177"
+        },
+        {
+            "href": "https://www.infoworld.com/article/3711427/microsoft-copilot-ai-to-flex-more-muscle.html",
+            "title": "\u5fae\u8f6f\u526f\u9a7e\u9a76\u4eba\u5de5\u667a\u80fd\u5c06\u6709\u66f4\u591a\u7075\u6d3b\u6027"
+        },
+        {
+            "href": "http://pubads.g.doubleclick.net/gampad/clk?id=6465466766&iu=/8456/IDG.G_B2B_InfoWorld.com",
+            "title": "\u501f\u52a9\u6570\u636e\u652f\u6301\u548c\u4eba\u5de5\u667a\u80fd\u652f\u6301\u7684\u601d\u79d1\u6f0f\u6d1e\u4fdd\u62a4\uff0c\u52a0\u5feb\u54cd\u5e94\u901f\u5ea6\u5e76\u7b80\u5316\u4f53\u9a8c\uff0c\u4ece\u800c\u4fdd\u62a4\u60a8\u7684\u4f01\u4e1a\u514d\u53d7\u590d\u6742\u5a01\u80c1\u3002\u6ce8\u518c\u4ee5\u83b7\u53d6\u514d\u8d39\u6f14\u793a\u3002"
+        }
+    ],
+    "it brief": [
+        {
+            "href": "https://itbrief.co.uk/story/chatgpt-introduces-gpt-store-for-customised-ai-resources",
+            "title": "ChatGPT\u4e3a\u5b9a\u5236\u7684AI\u8d44\u6e90\u63a8\u51faGPT Store \t\t  \t\t\t\t\u4eca\u5929 \t\t\t  \t\t\t\t\t\t# \t\t\t\t\t \t\t\t\t\t\t\u7f16\u7a0b \t\t\t\t\t  \t\t\t\t\t\t# \t\t\t\t\t \t\t\t\t\t\t\u7814\u7a76 \t\t\t\t\t  \t\t\t\t\t\t# \t\t\t\t\t \t\t\t\t\t\t\u9690\u79c1 \t\t\t\t\t   \t\t\t\u62a5\u544a\u663e\u793a\uff0c\u8d85\u8fc7300\u4e07\u7684\u5b9a\u5236"
+        },
+        {
+            "href": "https://cfotech.in/story/ai-remote-work-reshape-business-practices-by-2024",
+            "title": "\u52302024\u5e74\uff0c\u4eba\u5de5\u667a\u80fd\u548c\u8fdc\u7a0b\u5de5\u4f5c\u5c06\u91cd\u5851\u5546\u4e1a\u5b9e\u8df5  \u6628\u5929   #  CX   #  \u9879\u76ee\u7ba1\u7406   #  \u4eba\u5de5\u667a\u80fd   \u4eba\u5de5\u667a\u80fd\u6b63\u5728\u7ed9\u4e1a\u52a1\u548c\u9879\u76ee\u5e26\u6765\u9769\u547d\u6027\u7684\u53d8\u5316"
+        },
+        {
+            "href": "https://itbrief.co.uk/story/macfarlanes-participates-in-commercial-preview-of-lexis-ai",
+            "title": "\u9ea6\u514b\u6cd5\u5170\u53c2\u52a0Lexis+AI\u7684\u5546\u4e1a\u9884\u89c8  \u4e24\u5929\u524d   #  \u52a0\u5bc6\u6cd5   #  \u6cd5\u5f8b   #  \u521b\u65b0   \u5728\u8d70\u5411\u521b\u65b0\u7684\u8fc7\u7a0b\u4e2d\uff0c\u4f26\u6566\u6cd5\u5f8b"
+        },
+        {
+            "href": "https://itbrief.in/story/forescout-joins-microsoft-s-ai-powered-cybersecurity-initiative",
+            "title": "ForeScout\u52a0\u5165\u5fae\u8f6f\u7684\u4eba\u5de5\u667a\u80fd\u7f51\u7edc\u5b89\u5168\u8ba1\u5212  3\u5929\u524d   #  \u5fae\u8f6f   #  \u7f51\u7edc\u5b89\u5168   #  \u4eba\u5de5\u667a\u80fd   ForeScout\u5df2\u88ab\u9009\u4e3a"
+        },
+        {
+            "href": "https://channellife.in/story/air-india-launches-ai-assistant-ai-g-on-whatsapp-for-customer-support",
+            "title": "\u5370\u5ea6\u822a\u7a7a\u5728WhatsApp\u4e0a\u63a8\u51faAI\u52a9\u624bAI.g\u63d0\u4f9b\u5ba2\u6237\u652f\u6301  3\u5929\u524d   #  WhatsApp   #  \u8fde\u901a\u6027   #  \u82f1\u8bed   \u5370\u5ea6\u822a\u7a7a\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8"
+        },
+        {
+            "href": "https://channellife.com.au/story/asus-unveils-ai-powered-laptops-dual-screen-oled-tech-at-ces-2024",
+            "title": "\u534e\u7855\u5728CES 2024\u4e0a\u63a8\u51fa\u4eba\u5de5\u667a\u80fd\u7b14\u8bb0\u672c\u7535\u8111\u548c\u53cc\u5c4fOLED\u6280\u672f  3\u5929\u524d   #  \u4eba\u5de5\u667a\u80fd   #  \u8fde\u901a\u6027   #  \u534e\u7855   \u5728CES 2024\u4e0a\uff0c\u534e\u7855\u9996\u6b21\u4eae\u76f8\u4eba\u5de5\u667a\u80fd"
+        },
+        {
+            "href": "https://ecommercenews.uk/story/ai-amongst-key-trends-shaping-ecommerce-and-retail-in-2024",
+            "title": "\u4eba\u5de5\u667a\u80fd\u662f\u5851\u90202024\u5e74\u7535\u5b50\u5546\u52a1\u548c\u96f6\u552e\u4e1a\u7684\u4e3b\u8981\u8d8b\u52bf\u4e4b\u4e00  3\u5929\u524d   #  \u4eba\u5de5\u667a\u80fd   #  \u6beb\u5347   #  \u7f51\u4e0a\u96f6\u552e   \u4eba\u5de5\u667a\u80fd\u3001\u53ef\u6301\u7eed\u53d1\u5c55\u3001\u793e\u4ea4\u5546\u52a1\u548c\u4ef7\u503c"
+        },
+        {
+            "href": "https://channellife.com.au/story/persistent-and-aws-extend-generative-ai-development-in-strategic-endeavour",
+            "title": "Persistent\u548cAWS\u5728\u6218\u7565\u52aa\u529b\u4e2d\u6269\u5c55\u4e86\u751f\u6210\u5f0fAI\u5f00\u53d1 \t\t  \t\t\t\t3\u5929\u524d \t\t\t  \t\t\t\t\t\t# \t\t\t\t\t \t\t\t\t\t\tCX \t\t\t\t\t  \t\t\t\t\t\t# \t\t\t\t\t \t\t\t\t\t\tAWS \t\t\t\t\t  \t\t\t\t\t\t# \t\t\t\t\t \t\t\t\t\t\tAI \t\t\t\t\t   \t\t\t\u6301\u4e45\u7cfb\u7edf\u548cAWS\u8bbe\u7f6e\u4e3a"
+        },
+        {
+            "href": "https://cmotech.asia/story/zendesk-acquires-ai-firm-klaus-to-enhance-customer-experience",
+            "title": "Zendesk\u6536\u8d2dAI\u516c\u53f8Klaus\u4ee5\u63d0\u5347\u5ba2\u6237\u4f53\u9a8c  3\u5929\u524d   #  CX   #  \u4eba\u5de5\u667a\u80fd   #  \u68ee\u5fb7\u65af\u514b   Zendesk\u589e\u5f3a\u5176\u5ba2\u6237\u4f53\u9a8c(CX)"
+        },
+        {
+            "href": "https://itbrief.com.au/story/calabrio-acquires-wysdom-to-enhance-ai-machine-learning-capabilities",
+            "title": "Calabrio\u6536\u8d2dWysdom\u4ee5\u589e\u5f3aAI\u548c\u673a\u5668\u5b66\u4e60\u80fd\u529b \t\t  \t\t\t\t3\u5929\u524d \t\t\t  \t\t\t\t\t\t# \t\t\t\t\t \t\t\t\t\t\tml \t\t\t\t\t  \t\t\t\t\t\t# \t\t\t\t\t \t\t\t\t\t\tAI \t\t\t\t\t  \t\t\t\t\t\t# \t\t\t\t\t \t\t\t\t\t\t\u751f\u4ea7\u529b \t\t\t\t\t   \t\t\tCalabrio\u6536\u8d2dAI\u548c\u865a\u62df"
+        },
+        {
+            "href": "https://securitybrief.co.nz/story/cybersecurity-landscape-shaped-by-pqc-ai-sustainability",
+            "title": "PQC\u3001AI\u548c\u53ef\u6301\u7eed\u53d1\u5c55\u5851\u9020\u7684\u7f51\u7edc\u5b89\u5168\u683c\u5c40  4\u5929\u524d   #  \u52a0\u5bc6\u6cd5   #  \u7f51\u7edc\u5b89\u5168   #  \u91cf\u5b50\u8ba1\u7b97   \u91cf\u5b50\u79d1\u5b66\u7684\u65b0\u8fdb\u5c55"
+        },
+        {
+            "href": "https://itbrief.com.au/story/nvidia-unveils-new-geforce-rtx-super-desktop-gpus-for-advanced-ai-performance",
+            "title": "NVIDIA\u63a8\u51fa\u65b0\u7684GeForce RTX\u8d85\u7ea7\u684c\u9762\u56fe\u5f62\u5904\u7406\u5668\uff0c\u63d0\u4f9b\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u6027\u80fd  4\u5929\u524d   #  \u4e09\u661f   #  \u60e0\u666e   #  \u8054\u60f3   NVIDIA\u63a8\u51faGeForce RTX"
+        }
+    ],
+    "Tech Explore": [
+        {
+            "href": "https://techxplore.com/machine-learning-ai-news/",
+            "title": "\u673a\u5668\u5b66\u4e60&"
+        },
+        {
+            "href": "https://techxplore.com/news/2024-01-ai-framework-generates-images.html",
+            "title": "\u65b0\u7684\u4eba\u5de5\u667a\u80fd\u6846\u67b6\u4ece"
+        },
+        {
+            "href": "https://techxplore.com/news/2024-01-weaknesses-ai.html",
+            "title": "\u4e00\u9879\u7814\u7a76\u6307\u51fa\u4e86"
+        },
+        {
+            "href": "https://techxplore.com/news/2024-01-york-lawsuit-openai-major-implications.html",
+            "title": "\u300a\u7ebd\u7ea6\u65f6\u62a5\u300b\u5bf9OpenAI\u7684\u8bc9\u8bbc\u53ef\u80fd\u5bf9\u673a\u5668\u4eba\u7684\u53d1\u5c55\u4ea7\u751f\u91cd\u5927\u5f71\u54cd"
+        },
+        {
+            "href": "https://techxplore.com/news/2024-01-ai-fingerprint-unique.html",
+            "title": "\u4eba\u5de5\u667a\u80fd\u53d1\u73b0\uff0c\u5e76\u4e0d\u662f\u6bcf\u4e2a\u6307\u7eb9\u90fd\u662f"
+        },
+        {
+            "href": "https://techxplore.com/news/2024-01-ai-whittle-candidates-hydrogen-carriers.html",
+            "title": "\u4eba\u5de5\u667a\u80fd\u5e2e\u52a9\u5c06\u6db2\u6001\u6c22\u8f7d\u4f53\u7684\u5019\u9009\u5bf9\u8c61\u4ece\u6570\u5341\u4ebf\u524a\u51cf\u5230\u5927\u7ea6"
+        },
+        {
+            "href": "https://techxplore.com/news/2024-01-scientists-flaw-ai-query.html",
+            "title": "\u79d1\u5b66\u5bb6\u53d1\u73b0\u4eba\u5de5\u667a\u80fd\u67e5\u8be2\u4e2d\u7684\u5b89\u5168\u6f0f\u6d1e"
+        },
+        {
+            "href": "https://techxplore.com/news/2024-01-psychological-profiling-language-based-ai.html",
+            "title": "\u5fc3\u7406\u4fa7\u5199\u7814\u7a76\u53d1\u73b0\uff0c\u57fa\u4e8e\u8bed\u8a00\u7684\u4eba\u5de5\u667a\u80fd\u6a21\u578b\u5177\u6709\u9690\u85cf\u7684\u9053\u5fb7\u548c"
+        },
+        {
+            "href": "https://techxplore.com/news/2024-01-ai-availability.html",
+            "title": "\u9884\u6d4b\u505c\u8f66\u7684AI\u6a21\u578b"
+        },
+        {
+            "href": "https://techxplore.com/news/2024-01-ai-strength-composite-titanium-carbide.html",
+            "title": "\u4eba\u5de5\u667a\u80fd\u9884\u6d4b\u4e86\u4e00\u79cd\u590d\u5408\u6750\u6599\u7684\u5f3a\u5ea6\u4e0e\u78b3\u5316\u949b\u548c\u6eb4\u5316\u7269\u589e\u5f3a\u540e\uff0c"
+        }
+    ]
+}

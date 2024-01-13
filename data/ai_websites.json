@@ -1,0 +1,173 @@
+{
+  "ai_websites": [
+    {
+      "name": "The Verge",
+      "url_list": ["https://www.theverge.com/science"],
+      "description": "科技新闻网站",
+      "language": "en"
+    },
+    {
+      "name": "geekwire",
+      "url_list": ["https://www.geekwire.com/"],
+      "description": "科技新闻网站",
+      "language": "en"
+    },
+    {
+      "name": "technewsworld",
+      "url_list": [
+        "https://www.technewsworld.com/section/it",
+        "https://www.technewsworld.com/section/technology"
+      ],
+      "description": "科技新闻网站",
+      "language": "en"
+    },
+    {
+      "name": "cnet",
+      "url_list": ["https://www.cnet.com/tech/", "https://www.cnet.com/news/"],
+      "description": "科技新闻网站",
+      "language": "en"
+    },
+    {
+      "name": "cnn",
+      "url_list": ["https://www.cnn.com/business/tech"],
+      "description": "新闻网站",
+      "language": "en"
+    },
+    {
+      "name": "techcrunch",
+      "url_list": ["https://techcrunch.com/category/artificial-intelligence/"],
+      "description": "AI新闻网站",
+      "language": "en"
+    },
+    {
+      "name": "artificialintelligence-news",
+      "url_list": [
+        "https://www.artificialintelligence-news.com/artificial-intelligence-news/"
+      ],
+      "description": "AI新闻网站",
+      "language": "en"
+    },
+    {
+      "name": "MIT",
+      "url_list": ["https://news.mit.edu/topic/artificial-intelligence2"],
+      "description": "麻省理工学院",
+      "language": "en"
+    },
+    {
+      "name": "Wall Street Journal",
+      "url_list": ["https://www.wsj.com/tech/ai"],
+      "description": "华尔街日报",
+      "language": "en"
+    },
+    {
+      "name": "Financial Times",
+      "url_list": ["https://www.ft.com/artificial-intelligence"],
+      "description": "金融时报",
+      "language": "en"
+    },
+    {
+      "name": "the guardian",
+      "url_list": [
+        "https://www.theguardian.com/technology/artificialintelligenceai"
+      ],
+      "description": "卫报",
+      "language": "en"
+    },
+    {
+      "name": "euronews",
+      "url_list": ["https://www.euronews.com/tag/artificial-intelligence"],
+      "description": "欧洲新闻网",
+      "language": "en"
+    },
+    {
+      "name": "bloomberg",
+      "url_list": ["https://www.bloomberg.com/ai"],
+      "description": "彭博社",
+      "language": "en"
+    },
+    {
+      "name": "BBC",
+      "url_list": ["https://www.bbc.co.uk/news/topics/ce1qrvleleqt"],
+      "description": "英国广播公司",
+      "language": "en"
+    },
+    {
+      "name": "Time",
+      "url_list": ["https://time.com/section/tech/"],
+      "description": "时代周刊",
+      "language": "en"
+    },
+    {
+      "name": "AP",
+      "url_list": ["https://apnews.com/hub/artificial-intelligence"],
+      "description": "美联社",
+      "language": "en"
+    },
+    {
+      "name": "Science Daily",
+      "url_list": [
+        "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"
+      ],
+      "description": "科学日报",
+      "language": "en"
+    },
+    {
+      "name": "sky",
+      "url_list": ["https://news.sky.com/topic/artificial-intelligence-7032"],
+      "description": "天空新闻网",
+      "language": "en"
+    },
+    {
+      "name": "economic times",
+      "url_list": [
+        "https://economictimes.indiatimes.com/topic/artificial-intelligence"
+      ],
+      "description": "印度经济时报",
+      "language": "en"
+    },
+    {
+      "name": "globalnews",
+      "url_list": ["https://globalnews.ca/tag/artificial-intelligence/"],
+      "description": "加拿大全球新闻",
+      "language": "en"
+    },
+    {
+      "name": "visual studio magazine",
+      "url_list": [
+        "https://visualstudiomagazine.com/pages/topic-pages/ai-and-machine-learning.aspx"
+      ],
+      "description": "visual studio magazine",
+      "language": "en"
+    },
+    {
+      "name": "Info World",
+      "url_list": ["https://www.infoworld.com/category/generative-ai/"],
+      "description": "科技新闻网站",
+      "language": "en"
+    },
+    {
+      "name": "it brief",
+      "url_list": ["https://itbrief.com.au/results?search=ai"],
+      "description": "科技新闻网站",
+      "language": "en"
+    },
+    {
+      "name": "Tech Explore",
+      "url_list": ["https://techxplore.com/machine-learning-ai-news/"],
+      "description": "科技新闻网站",
+      "language": "en"
+    },
+    {
+      "name": "Hacker News",
+      "url_list": ["https://news.ycombinator.com/"],
+      "description": "科技新闻网站",
+      "language": "en"
+    },
+    {
+      "name": "The Hacker News",
+      "url_list": ["https://thehackernews.com/"],
+      "description": "科技新闻网站，和上面的Hacker News不一样",
+      "language": "en"
+    }
+  ]
+}
