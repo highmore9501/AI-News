@@ -6,7 +6,7 @@ src_file = '../data/result.json'
 websites_info_file = '../data/ai_websites.json'
 
 today = time.strftime("%Y-%m-%d", time.localtime())
-md_file = f'../data/News_{today}.md'
+md_file = f'../data/result/News_{today}.md'
 
 
 def write_MD():
