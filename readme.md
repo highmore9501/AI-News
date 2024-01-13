@@ -5,4 +5,4 @@
 ## 使用须知
 
 需要安装 chromedriver
-需要自备腾讯的翻译 api_key，保存在.env 文件中
+需要自建一个.env 文件，里面有保存腾讯云的 secretId 和 secretKey 的环境变量，还有 chormedriver 的路径以及调用的 chorme.exe 的路径，具体写法可以参考.env.example 文件

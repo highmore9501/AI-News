@@ -1,5 +1,5 @@
-from .src.translater import Translater
-from .src.web_crawler import WebCrawler
+from src.translater import Translater
+from src.web_crawler import WebCrawler
 import json
 import time
 
@@ -13,8 +13,10 @@ with open(result_file, 'w') as f:
 
 def search_info(key_word):
     crawler = WebCrawler()
+    print("爬虫初始化完成")
     translater = Translater()
-    with open(websites_info_file, 'r') as f:
+    print("翻译器初始化完成")
+    with open(websites_info_file, 'r', encoding='utf-8') as f:
         websites_info = json.load(f)
         ai_websites = websites_info['ai_websites']
 
@@ -22,7 +24,7 @@ def search_info(key_word):
         url_list = site['url_list']
         website_name = site['name']
 
-        with open(result_file, 'r') as f:
+        with open(result_file, 'r', encoding='utf-8') as f:
             result_dict = json.load(f)
             if website_name not in result_dict:
                 result_dict[website_name] = []
@@ -50,8 +52,9 @@ def search_info(key_word):
                     "title": translated_text
                 }
             )
+            print(f'抓取新闻标题：{translated_text}')
 
-        with open(result_file, 'w') as f:
+        with open(result_file, 'w', encoding='utf-8') as f:
             json.dump(result_dict, f, indent=4)
         print(f'{website_name}的数据爬取完毕！')
 
