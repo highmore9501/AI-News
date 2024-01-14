@@ -12,6 +12,7 @@ from selenium.webdriver.chrome.service import Service
 import os
 from dotenv import load_dotenv
 from urllib.parse import urlparse
+import threading
 
 # 加载.env文件中的环境变量
 load_dotenv()
@@ -39,18 +40,32 @@ class WebCrawler:
             service=webdriver_service, options=self.chrome_options)
 
     def get_page_content(self, url: str) -> str:
-        # 打开指定的URL
-        self.driver.get(url)
-        # 等待页面加载完成，时间最多30秒
-        try:
-            WebDriverWait(self.driver, 30).until(
-                EC.presence_of_element_located((By.TAG_NAME, "body")))
-            # 获取页面源代码
-            page_content = self.driver.page_source
-            return page_content
-        except TimeoutException:
+        # 创建一个事件对象，用于在超时时通知线程
+        event = threading.Event()
+
+        # 定义一个线程，用于打开 URL 并等待页面加载
+        def open_url_and_wait():
+            try:
+                self.driver.get(url)
+            except TimeoutException:
+                pass
+            finally:
+                event.set()  # 设置事件对象，表示操作已完成
+
+        # 创建并启动线程
+        thread = threading.Thread(target=open_url_and_wait)
+        thread.start()
+
+        # 等待线程完成，最多等待 30 秒
+        event.wait(30)
+
+        # 如果事件未被设置，表示超时
+        if not event.is_set():
             print(f'页面加载超时，URL: {url}')
-            return ""
+
+        # 获取页面源代码
+        page_content = self.driver.page_source
+        return page_content
 
     def get_href_by_keyword(self, page_content, url: str, keyword: str, match_case: bool) -> Tuple[str, str]:
         result = []

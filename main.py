@@ -77,4 +77,7 @@ def search_info(key_word):
 if __name__ == "__main__":
     key_word = input("请输入关键词：")
     search_info(key_word)
-    write_MD()
+
+    src_file = './data/result.json'
+    websites_info_file = './data/ai_websites.json'
+    write_MD(src_file, websites_info_file)
