@@ -1,6 +1,9 @@
 from src.translater import Translater
 from src.web_crawler import WebCrawler
 from src.write_MD import write_MD
+from src.mail_sender import send_email
+import dotenv
+import os
 import json
 import time
 
@@ -75,9 +78,30 @@ def search_info(key_word):
 
 
 if __name__ == "__main__":
+    # 爬取数据
     key_word = input("请输入关键词：")
     search_info(key_word)
 
+    # 写入md文件
     src_file = './data/result.json'
     websites_info_file = './data/ai_websites.json'
-    write_MD(src_file, websites_info_file)
+    today = time.strftime("%Y-%m-%d", time.localtime())
+    md_file = f'./data/result/News_{today}.md'
+    write_MD(src_file, websites_info_file, md_file)
+
+    # 发送邮件
+    dotenv.load_dotenv()
+    sender_email = os.getenv('SENDER_EMAIL')
+    sender_password = os.getenv('SENDER_PASSWORD')
+
+    # 接收者的邮箱地址
+    recipient_email = '523985539@qq.com'
+    # 邮件主题
+    subject = f'{today}的{key_word}新闻'
+    # 邮件正文
+    body = '具体内容见附件'
+    # 附件路径
+    attachment_path = md_file
+
+    send_email(sender_email, sender_password, recipient_email,
+               subject, body, attachment_path)
