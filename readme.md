@@ -4,11 +4,11 @@
 
 ## 使用须知
 
-需要安装 chromedriver
+需要安装 chrome 和 chromedriver
 需要自建一个.env 文件，里面有：
 
 - 腾讯云的 secretId 和 secretKey 的环境变量
 - chormedriver 的路径以及调用的 chorme.exe 的路径
 - 发送邮件的用户名和密码
 
-具体写法可以参考.env.example 文件
+具体写法可以参考 env.example 文件，修改好以后再重命名为.env
