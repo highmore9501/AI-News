@@ -14,6 +14,20 @@ RUN python -m pip install -r requirements.txt
 # 安装 Jupyter Notebook
 RUN pip install jupyterlab
 
+# 下载chorme 和chormedriver
+RUN wget https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6099.109/linux64/chrome-linux64.zip
+RUN unzip chrome-linux64.zip
+RUN mv chrome-linux64/chrome /usr/bin/chrome
+RUN chown root:root /usr/bin/chrome
+RUN chmod +x /usr/bin/chrome
+
+RUN wget https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6099.109/linux64/chromedriver-linux64.zip
+RUN unzip chromedriver-linux64.zip
+RUN mv chromedriver-linux64 /usr/bin/chromedriver
+RUN chown root:root /usr/bin/chromedriver
+RUN chmod +x /usr/bin/chromedriver
+
+
 WORKDIR /ai_news
 COPY . /ai_news
 
@@ -26,4 +40,4 @@ USER appuser
 EXPOSE 8888
 
 # 运行 Jupyter Notebook
-CMD ["jupyter", "lab", "--ip", "0.0.0.0", "--port", "8888", "--allow-root","--NotebookApp.token=123456"]
+CMD ["jupyter", "lab", "--ip", "0.0.0.0", "--port", "8888", "--allow-root","--NotebookApp.token=password"]
